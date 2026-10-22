@@ -10,6 +10,8 @@ coverY: 0
 
 Visionen svarar på vart vi är på väg. Missionen svarar på varför vi finns. Verksamhetsidén svarar på hur vi jobbar och vad vi gör. Tillsammans bildar de en kedja från framtidsbild till dagligt handlande och fastställt för lång tid, just för att ge distriktet en stabil kurs som håller längre än en mandatperiod.
 
+<figure><img src="../.gitbook/assets/diagram-vision-mission.svg" alt="Vision, mission och verksamhetsidé med sina tre frågor"><figcaption></figcaption></figure>
+
 De är inte dokument för hyllan. De är kompassnålar. En förtroendevald som är osäker på om ett förslag är rätt väg att gå bör kunna hålla dem mot beslutet och se om riktningen stämmer.
 
 {% include "../.gitbook/includes/vision.md" %}

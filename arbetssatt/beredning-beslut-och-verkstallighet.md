@@ -12,6 +12,8 @@ Beredning, beslut och verkställighet är tre delar av samma ansvarskedja. Den s
 
 Kedjan håller när rollerna är klara – och brister när en del tar över en annans ansvar.
 
+<figure><img src="../.gitbook/assets/diagram-beslutskedja.svg" alt="Beredning, beslutsfattande och verkställighet"><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Om det är oklart vem som får besluta används [normordningen](../grund/normordning.md), [delegationen](../ledning/delegation.md) och [ansvarsmatrisen](../organisation/ansvarsmatris.md). Konkret ansvarsfördelning i olika frågetyper finns där.
 {% endhint %}

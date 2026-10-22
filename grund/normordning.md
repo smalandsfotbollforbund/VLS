@@ -12,6 +12,8 @@ I en folkrörelse behövs både engagemang och ordning. När beslut, dokument el
 
 Normordningen är den ordningen. Den hjälper Smålands Fotbollförbund att tolka frågor rätt, hålla isär olika nivåer och undvika att praxis, vana eller god vilja går före det som faktiskt är beslutat.
 
+<figure><img src="../.gitbook/assets/diagram-normordning.svg" alt="Normordningens sju nivåer, där det som står högre går före"><figcaption></figcaption></figure>
+
 ## Det som står högre går före
 
 Varje nivå i normordningen väger tyngre än nivån under. Ett dokument eller beslut i distriktet kan därför inte ändra, begränsa eller gå emot något som ligger högre upp.

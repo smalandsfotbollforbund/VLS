@@ -12,6 +12,8 @@ Motioner är ett viktigt verktyg i en [folkrörelse](../grund/folkrorelse.md) ef
 
 Exakta tidsgränser, formkrav och behörigheter följer av stadgarna för såväl årsmöte ([motion](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-5-motioner)) som representantskap (kallas för [skrivelse](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-3-sammantraden), men har samma funktion som motion).
 
+<figure><img src="../.gitbook/assets/diagram-motion.svg" alt="Från inlämnad motion till beslut i fyra steg"><figcaption></figcaption></figure>
+
 ## Vad är en motion?
 
 En motion är ett skriftligt förslag från en förening (eller annan behörig part enligt [stadgarna](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund)) som riktas till ett demokratiskt organ, [årsmötet](arsmote.md) eller [representantskapet](representantskap.md), för beslut. Det är inte ett klagomål, en fråga till [distriktsstyrelsen](../ledning/distriktsstyrelse.md) eller ett önskemål om förändring. Det är ett konkret förslag: _att Smålands Fotbollförbund beslutar att…_

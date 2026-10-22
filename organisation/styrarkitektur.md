@@ -13,6 +13,8 @@ Styrarkitekturen visar hur Smålands Fotbollförbund hänger ihop som styrsystem
 
 Rollförståelse finns i [ansvar och roller](ansvar-och-roller.md). Konkret ansvarsfördelning i olika frågetyper finns i [ansvarsmatrisen](ansvarsmatris.md).
 
+<figure><img src="../.gitbook/assets/diagram-nivaer.svg" alt="Fem nivåer: demokratisk, strategisk, taktisk, operativ och granskande"><figcaption></figcaption></figure>
+
 ## Fem nivåer som behöver varandra
 
 Smålands Fotbollförbunds styrning kan förstås genom fem nivåer. De är inte en rangordning av vilka som är viktigast, utan en beskrivning av olika uppgifter.

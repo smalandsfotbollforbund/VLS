@@ -12,6 +12,8 @@ Planering och uppföljning är rytmen i styrningen.
 
 Den här sidan beskriver årscykeln: hur riktning, plan, budget, genomförande, uppföljning och demokratiska processer ska få plats i rätt ordning. Principerna för återrapportering och avvikelser beskrivs i [uppföljning och återrapportering](../arbetssatt/uppfoljning-och-aterrapportering.md). Risk, kontroll och attest beskrivs i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
 
+<figure><img src="../.gitbook/assets/diagram-arscykel.svg" alt="Årscykelns fem steg"><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Den här sidan beskriver principerna för årscykeln. Datum, mallar, mötesplaner och detaljerade processflöden hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
 {% endhint %}
