@@ -1,8 +1,8 @@
 ---
 description: >-
-  Smålands Fotbollförbund styrs inte som ett företag eftersom det inte ägs av
-  någon. Det styrs som en folkrörelse eftersom det ytterst är
-  medlemsföreningarna som ger organisationen dess uppdrag.
+  Distriktet styrs inte som ett företag eftersom det inte ägs av någon. Det
+  styrs som en folkrörelse eftersom det ytterst är medlemsföreningarna som ger
+  organisationen dess uppdrag.
 icon: house-heart
 cover: ../.gitbook/assets/cover-avsnitt-grund.svg
 coverY: 0
@@ -10,27 +10,23 @@ coverY: 0
 
 # Grund och värden
 
-Smålands Fotbollförbund är en del av den svenska [idrottsrörelsen](../organisation/forhallande-i-idrottens-ekosystem.md). För att förstå hur distriktet styrs behöver man först förstå var uppdraget kommer ifrån.
-
-Smålands Fotbollförbund styrs inte som ett företag eftersom det inte ägs av någon. Det styrs som en folkrörelse eftersom det ytterst är medlemsföreningarna som ger organisationen dess uppdrag.
-
-Det är den principen som förklarar varför [medlemsinflytande](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md), [demokratiskt fattade beslut](../demokrati/), tydliga [mandat och ansvar](../organisation/ansvar-och-roller.md) på rätt nivå är grundläggande delar av styrningen.
+Smålands Fotbollförbund är en del av den svenska [idrottsrörelsen](../organisation/forhallande-i-idrottens-ekosystem.md) som i grunden är en folkrörelse. För att förstå hur distriktet styrs behöver man först förstå var uppdraget kommer ifrån; medlemsföreningarna. Det är den principen som förklarar varför [medlemsinflytande](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md), [demokratiskt fattade beslut](../demokrati/), tydliga [mandat och ansvar](../organisation/ansvar-och-roller.md) på rätt nivå är grundläggande delar av styrningen.
 
 ## Fotbollen byggdes underifrån
 
-Den organiserade fotbollen växte fram genom att människor gick samman i föreningar. På ort efter ort skapades verksamhet genom frivilligt engagemang, gemensamt ansvar och demokratiska beslut.
+Den organiserade fotbollen växte fram genom att människor gick samman i föreningar. På ort efter ort skapades verksamhet genom friilligt engagemang, gemensamt ansvar och demokratiska beslut.
 
-När föreningarna blev fler uppstod behovet av samordning. Tävlingar skulle organiseras, regler skulle vara gemensamma och fotbollen behövde utvecklas även utanför den enskilda föreningen.
+När föreningarna blev fler uppstod behovet av samordning. Tävlingar skulle organiseras, regler skulle vara gemensamma och fotbollen behövde utvecklas även utanför den enskilda föreningen.&#x20;
 
 Ur det behovet växte distriktsförbund och nationella förbund fram. Det var alltså inte förbunden som skapade föreningarna. Föreningarna skapade förbunden. Den principen är fortfarande grunden för den svenska idrottsrörelsen.
 
 ### Föreningarnas gemensamma organisation
 
-Distriktet finns därför inte vid sidan av föreningarna eller över föreningarna. Det är föreningarnas gemensamma organisation för de frågor som behöver lösas tillsammans.&#x20;
+Distriktet finns därför inte vid sidan av föreningarna eller över föreningarna. Det är föreningarnas gemensamma organisation för de frågor som behöver lösas tillsammans.
 
 Uppdraget är att utveckla, administrera och främja fotbollen i Småland på ett sätt som stärker förutsättningarna för medlemsföreningarnas verksamhet.
 
-Distriktets legitimitet kommer ytterst från medlemsföreningarna. Genom [årsmöten](../demokrati/arsmote.md), [val](../demokrati/val-ombud-och-rostratt.md) och gemensamma beslut ger föreningarna organisationen dess [uppdrag och inriktning](../strategi/).
+Distriktets legitimitet kommer därför också ytterst från medlemsföreningarna. Genom [årsmöten](../demokrati/arsmote.md), [val](../demokrati/val-ombud-och-rostratt.md) och gemensamma beslut ger föreningarna organisationen dess [uppdrag och inriktning](../strategi/).
 
 ## Därför ser styrningen ut som den gör
 

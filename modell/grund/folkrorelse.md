@@ -1,7 +1,7 @@
 ---
 description: >-
-  Distriktet är en del av idrottsrörelsen och vilar på folkrörelsens grunder för
-  demokratisk styrning, föreningsliv och gemensamt ansvar.
+  Som en del av idrottsrörelsen vilar distriktets struktur på folkrörelsens
+  grunder för demokratisk styrning, föreningsliv och gemensamt ansvar.
 cover: ../.gitbook/assets/cover-folkrorelseprincip.svg
 coverY: 0
 ---
@@ -16,7 +16,7 @@ Folkrörelseprincipen är inte en egen normnivå i [normordningen](normordning.m
 
 ## En rörelse som växte underifrån
 
-Den organiserade idrotten i Sverige växte fram ur föreningslivet. Människor samlades kring gemensamma intressen, bildade föreningar, valde företrädare, skrev stadgar och byggde verksamhet tillsammans. Rörelsen bars inte av en enskild ägare – den bars av många människors vilja att göra något gemensamt.
+Den organiserade idrotten i Sverige växte fram ur föreningslivet. Människor samlades kring gemensamma intressen, bildade föreningar, valde företrädare, skrev stadgar och byggde verksamhet tillsammans. Rörelsen bars inte av en enskild ägare, den bars av många människors vilja att göra något gemensamt.
 
 Idrottsrörelsen blev därför mer än träning och tävling. Den blev en plats där människor lärde sig föreningsdemokrati, ansvar, ledarskap och samarbete.
 
@@ -30,7 +30,7 @@ Professionalisering ska stärka folkrörelsen, inte ersätta den. Förtroendeval
 
 Folkrörelseprincipen innebär att distriktet är en demokratisk sammanslutning där medlemsföreningarna har formellt inflytande genom [årsmöte](../demokrati/arsmote.md), [representantskap](../demokrati/representantskap.md), [motioner](../demokrati/motion.md), [val](../demokrati/val-ombud-och-rostratt.md) och [granskning](../granskande/revision.md).
 
-Det är föreningarnas gemensamma uppdrag som ger distriktet [legitimitet](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md). Frågor som hör hemma på demokratisk nivå ska inte lösas av distriktsstyrelse, kommittéer eller kansli genom informell praxis.
+Det är föreningarnas gemensamma intressen som ger distriktet [legitimitet](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md). Frågor som hör hemma på demokratisk nivå ska inte lösas av distriktsstyrelse, kommittéer eller kansli genom informell praxis.
 
 ## Hur folkrörelseprincipen görs praktisk
 

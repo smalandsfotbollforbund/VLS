@@ -1,5 +1,7 @@
 ---
-description: Styrmodellen beskriver hur Smålands Fotbollförbund styrs, leds och utvecklas.
+description: >-
+  Styrmodellen är Smålands Fotbollförbunds gemensamma karta för styrning, ansvar
+  och arbetssätt.
 cover: .gitbook/assets/cover-startsida.svg
 coverY: 0
 layout:
@@ -7,6 +9,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -14,37 +17,35 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
 # VÅR STYRMODELL
 
-**Styrmodellen är Smålands Fotbollförbunds gemensamma karta för styrning, ansvar och arbetssätt.** Den hjälper [distriktsstyrelsen](ledning/distriktsstyrelse.md), [kommittéer](underliggande-organ/kommitteer.md), [distriktschef](ledning/distriktschef.md), [kansli](ledning/kansli.md) och [granskande funktioner](granskande/revision.md) att förstå var frågor hör hemma, hur ansvar ska följas och hur beslut ska bli till verklighet.
+Modellen har till syfte att skapa ordning utan att göra arbetet krångligare än det behöver vara; med andra ord stadig nog att hålla över tid och tydlig nog att användas i vardagen.&#x20;
 
-Den ska ge ordning utan att göra arbetet krångligare än det behöver vara: stadig nog att hålla över tid och tydlig nog att användas i vardagen. Den publiceras öppet för att skapa transparens gentemot föreningar och andra intressenter, men är i första hand ett internt styr- och arbetsstöd.
-
-**Styrmodellen fungerar som en karta, inte en handbok.** Börja där frågan hör hemma och gå vidare via länkarna. Om något väger tyngre än annat: gå till [normordningen](grund/normordning.md). Om du behöver ett konkret dokument: gå till [dokumentarkivet](https://styrning.smaland.football/dokument).
+Den hjälper [distriktsstyrelsen](ledning/distriktsstyrelse.md), [kommittéer](underliggande-organ/kommitteer.md), [distriktschef](ledning/distriktschef.md), [kansli](ledning/kansli.md) och [granskande funktioner](granskande/revision.md) att förstå var frågor hör hemma, hur ansvar ska följas och hur beslut ska bli till verklighet. Anledningen till att den publiceras öppet är för att skapa transperens gentemot föreningar och andra intressenter, men är i första hand ett internt styr- och arbetsstöd.
 
 {% hint style="info" %}
 **Introduktionsfilm kommer här**\
 Här lägger vi in filmen där styrmodellen presenteras. Filmen bör kort berätta varför modellen finns, hur den ska användas och hur den hänger ihop med dokumentarkivet.
 {% endhint %}
 
-## Styrmodellen beskriver principen — inte detaljerna
+**Modellen fungerar som en karta, inte en handbok.** Börja där frågan hör hemma och gå vidare via länkarna. För att förstå om något väger tyngre än annat gå till [normordningen](grund/normordning.md) eftersom varje del av modellen har ett eget uppdrag. Läs inte in mer än sidan säger utan gå tillbaka till rätt kärnkälla om något är oklart.
 
-Styrmodellen beskriver nivåer, roller, samband och arbetssätt. Den ska inte ersätta omdöme, dialog eller ledarskap — den ger ramarna så att omdömet används på rätt nivå, i rätt fråga och med rätt ansvar.
+Modellen ska därför inte ersätta omdöme, dialog eller ledarskap utan ge ramarna så att det används på rätt nivå, i rätt fråga och med rätt ansvar. De konkreta beskrivningarna om hur detta appliceras finns i [dokumentarkivet](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/) och skillnaden beskrivs i [dokumentarkitekturen](styrande-dokument/arkitektur.md).
 
-När läsaren behöver ett beslutat dokument, en arbetsordning, en delegationsordning eller en processbeskrivning ska frågan gå vidare till [dokumentarkivet](https://styrning.smaland.football/dokument). Skillnaden mellan styrmodell och dokumentarkiv beskrivs i [dokumentarkitekturen](styrande-dokument/arkitektur.md).
 
-När samma sak skrivs på flera ställen ökar risken för gamla formuleringar och motstridiga tolkningar. Varje sida har ett eget uppdrag — läs inte in mer än sidan säger, och gå tillbaka till rätt kärnkälla när något är oklart.
 
 ## Grunden och riktningen
 
@@ -60,10 +61,10 @@ Styrmodellens grund beskrivs i [folkrörelseprincip och demokratisk styrning](gr
 
 ## Hitta rätt
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="readme/om-smalands-fotbollforbund.md"><strong>Introduktion</strong></a><br>Om distriktet, hur du läser styrmodellen och ordlista.</td><td><a href=".gitbook/assets/cover-kort-om-smff.svg">cover-kort-om-smff.svg</a></td></tr><tr><td><a href="grund/folkrorelse.md"><strong>Grund och värden</strong></a><br>Folkrörelseprincip och demokratisk styrning, värdegrund, normordning och styrande principer.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-grund.svg">cover-kort-avsnitt-grund.svg</a></td></tr><tr><td><a href="organisation/styrarkitektur.md"><strong>Organisationens struktur</strong></a><br>Hur distriktets nivåer och relationer hänger ihop.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-organisation.svg">cover-kort-avsnitt-organisation.svg</a></td></tr><tr><td><a href="demokrati/arsmote.md"><strong>Demokratisk styrning</strong></a><br>Årsmöte, representantskap, ombud, motioner och medlemsinflytande.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-demokrati.svg">cover-kort-avsnitt-demokrati.svg</a></td></tr><tr><td><a href="ledning/distriktsstyrelse.md"><strong>Distriktsstyrelsen och ledningen</strong></a><br>Distriktsstyrelse, presidium, distriktschef, kansli, delegation, intern kontroll och attest.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-ledning.svg">cover-kort-avsnitt-ledning.svg</a></td></tr><tr><td><a href="underliggande-organ/kommitteer.md"><strong>Kommittéer och arbetsgrupper</strong></a><br>Kommittéer, arbetsgrupper och referensgrupper.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-underliggande.svg">cover-kort-avsnitt-underliggande.svg</a></td></tr><tr><td><a href="granskande/valberedning.md"><strong>Granskande funktioner</strong></a><br>Valberedning, revision, lekmannarevision och disciplinnämnd.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-granskande.svg">cover-kort-avsnitt-granskande.svg</a></td></tr><tr><td><a href="/broken/pages/7HKF0GPpPonIvevKTHSl"><strong>Strategi och operativt uppdrag</strong></a><br>Strategihus, verksamhetsområden, basuppgifter, mål, planering och ansvarsmatris.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-strategi.svg">cover-kort-avsnitt-strategi.svg</a></td></tr><tr><td><a href="arbetssatt/beredning-beslut-och-verkstallighet.md"><strong>Processer och arbetssätt</strong></a><br>Beredning, beslut, verkställighet, uppföljning, dokumentation och möten.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-arbetssatt.svg">cover-kort-avsnitt-arbetssatt.svg</a></td></tr><tr><td><a href="styrande-dokument/arkitektur.md"><strong>Styrande dokument</strong></a><br>Dokumentarkitektur och externa bärande dokument.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-dokument.svg">cover-kort-avsnitt-dokument.svg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="readme/om-smalands-fotbollforbund.md"><strong>Introduktion</strong></a><br>Om distriktet, hur du läser styrmodellen och ordlista.</td><td><a href=".gitbook/assets/cover-kort-om-smff.svg">cover-kort-om-smff.svg</a></td></tr><tr><td><a href="grund/folkrorelse.md"><strong>Grund och värden</strong></a><br>Folkrörelseprincip och demokratisk styrning, värdegrund, normordning och styrande principer.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-grund.svg">cover-kort-avsnitt-grund.svg</a></td></tr><tr><td><a href="organisation/styrarkitektur.md"><strong>Organisationens struktur</strong></a><br>Hur distriktets nivåer och relationer hänger ihop.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-organisation.svg">cover-kort-avsnitt-organisation.svg</a></td></tr><tr><td><a href="demokrati/arsmote.md"><strong>Demokratisk styrning</strong></a><br>Årsmöte, representantskap, ombud, motioner och medlemsinflytande.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-demokrati.svg">cover-kort-avsnitt-demokrati.svg</a></td></tr><tr><td><a href="ledning/distriktsstyrelse.md"><strong>Distriktsstyrelsen och ledningen</strong></a><br>Distriktsstyrelse, presidium, distriktschef, kansli, delegation, intern kontroll och attest.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-ledning.svg">cover-kort-avsnitt-ledning.svg</a></td></tr><tr><td><a href="underliggande-organ/kommitteer.md"><strong>Kommittéer och arbetsgrupper</strong></a><br>Kommittéer, arbetsgrupper och referensgrupper.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-underliggande.svg">cover-kort-avsnitt-underliggande.svg</a></td></tr><tr><td><a href="granskande/valberedning.md"><strong>Granskande funktioner</strong></a><br>Valberedning, revision, lekmannarevision och disciplinnämnd.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-granskande.svg">cover-kort-avsnitt-granskande.svg</a></td></tr><tr><td><a href="strategi/"><strong>Strategi och operativt uppdrag</strong></a><br>Strategihus, verksamhetsområden, basuppgifter, mål, planering och ansvarsmatris.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-strategi.svg">cover-kort-avsnitt-strategi.svg</a></td></tr><tr><td><a href="arbetssatt/beredning-beslut-och-verkstallighet.md"><strong>Processer och arbetssätt</strong></a><br>Beredning, beslut, verkställighet, uppföljning, dokumentation och möten.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-arbetssatt.svg">cover-kort-avsnitt-arbetssatt.svg</a></td></tr><tr><td><a href="styrande-dokument/arkitektur.md"><strong>Styrande dokument</strong></a><br>Dokumentarkitektur och externa bärande dokument.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-dokument.svg">cover-kort-avsnitt-dokument.svg</a></td></tr></tbody></table>
 
-## Förvaltning
+{% hint style="info" icon="arrows-retweet" %}
+## Ägare av styrmodellen är distriktsstyrelsen som också ansvarar för att den är aktuell.
 
-[Distriktsstyrelsen](ledning/distriktsstyrelse.md) äger styrmodellen och ansvarar för att den är aktuell. Distriktsordföranden driver det löpande förvaltningsarbetet inom distriktsstyrelsens ram.
-
-Styrmodellen bör ses över i sin helhet minst en gång per mandatperiod, och alltid när större förändringar sker i stadgar, organisation, ansvarsfördelning, dokumentarkitektur eller externa krav.
+Modellen ses över i sin helhet minst en gång per verksamhetsår och alltid när större förändringar sker i stadgar, organisation, ansvarsfördelning, dokumentarkitektur eller externa krav.
+{% endhint %}

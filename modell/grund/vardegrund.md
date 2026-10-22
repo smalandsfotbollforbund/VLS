@@ -1,21 +1,20 @@
 ---
-cover: ../.gitbook/assets/cover-vardegrund.svg
 description: >-
-  Idrottens och fotbollens värdegrund och hur den ska märkas i distriktets
-  beslut, bemötande och vardag.
+  Idrottens och fotbollens värdegrund ska märkas i distriktets beslut, bemötande
+  och vardag.
+cover: ../.gitbook/assets/cover-vardegrund.svg
+coverY: 0
 ---
 
 # Värdegrund
 
-Värdegrunden beskriver vilket slags fotboll Smålands Fotbollförbund ska bidra till. Den handlar om hur människor möts, hur beslut fattas, hur barn och unga skyddas och hur föreningar får stöd att bedriva verksamhet på ett tryggt, öppet och hållbart sätt.
+Värdegrunden beskriver vilket slags klimat Smålands Fotbollförbund ska bidra till. Den handlar om hur människor möts, hur beslut fattas, hur barn och unga skyddas och hur föreningar får stöd att bedriva verksamhet på ett tryggt, öppet och hållbart sätt.
 
-För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den är inte ett fristående ord på en vägg, utan ska också märkas i hur vi styr.
+För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den är inte ett fristående ord på en vägg, utan ska också märkas i hur vi styr och leder.
 
-## Idrottens värdegrund sätter grunden
+## Idrottens gemensamma värdegrund sätter grunden
 
-Smålands Fotbollförbund är en del av idrottsrörelsen och omfattas därför av idrottens gemensamma värdegrund.
-
-Riksidrottsförbundet beskriver [idrottsrörelsens värdegrund](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#idrotten-vill-idrottsrorelsens-ideprogram) genom fyra grundläggande delar: **glädje och gemenskap**, **demokrati och delaktighet**, **allas rätt att vara med** och **rent spel**. Tillsammans säger de något enkelt men viktigt: idrott ska ge människor möjlighet att delta, växa, påverka, känna tillhörighet och möta varandra på schyssta villkor.
+Riksidrottsförbundet beskriver [idrottsrörelsens värdegrund](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#idrotten-vill-idrottsrorelsens-ideprogram) genom fyra grundläggande delar. Tillsammans säger de förenklat att idrotten ska ge människor möjlighet att delta, växa, påverka, känna tillhörighet och möta varandra på schyssta villkor.
 
 {% hint style="info" %}
 Idrottens värdegrund är en gemensam grund för svensk idrott. För distriktet är den både en fråga om verksamhet och om styrning: hur vi fattar beslut, hur vi behandlar människor och hur vi följer upp det ansvar vi har.
