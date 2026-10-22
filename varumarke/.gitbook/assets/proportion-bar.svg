@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <!-- White background -->
+  <rect x="0" y="0" width="800" height="120" fill="#FFFFFF"/>
+
+  <!-- Bar segments, y=20, height=60 -->
+  <!-- 50% = 400px: Torparbeige #E2DBD0 -->
+  <rect x="0" y="20" width="400" height="60" fill="#E2DBD0"/>
+  <!-- 25% = 200px: Smålandsröd #A91C1C -->
+  <rect x="400" y="20" width="200" height="60" fill="#A91C1C"/>
+  <!-- 15% = 120px: Skogsgrön #2F5731 -->
+  <rect x="600" y="20" width="120" height="60" fill="#2F5731"/>
+  <!-- 7% = 56px: Kolsvart #333333 -->
+  <rect x="720" y="20" width="56" height="60" fill="#333333"/>
+  <!-- 3% = 24px: Matchgul #FECB00 -->
+  <rect x="776" y="20" width="24" height="60" fill="#FECB00"/>
+
+  <!-- Labels inside segments -->
+  <!-- 50% Neutral: dark text, centered in 0–400 -->
+  <text x="200" y="55" font-family="Arial" font-weight="700" font-size="11" fill="#333333" text-anchor="middle" dominant-baseline="middle">50% NEUTRAL</text>
+  <!-- 25% Röd: white text, centered in 400–600 -->
+  <text x="500" y="55" font-family="Arial" font-weight="700" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">25% RÖD</text>
+  <!-- 15% Grön: white text, centered in 600–720 -->
+  <text x="660" y="55" font-family="Arial" font-weight="700" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">15% GRÖN</text>
+  <!-- 7% — narrow, minimal label -->
+  <text x="748" y="55" font-family="Arial" font-weight="700" font-size="9" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">7%</text>
+  <!-- 3% — too narrow for label, omit -->
+
+  <!-- Description text below bar -->
+  <text x="400" y="100" font-family="Arial" font-size="11" fill="#888884" text-anchor="middle">50% Linnevit / Torparbeige · 25% Smålandsröd · 15% Skogsgrön · 7% Kolsvart · 3% Matchgul — Vardagsbalansen. Affischer och kampanjer får bryta mönstret.</text>
+</svg>

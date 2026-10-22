@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="126" viewBox="0 0 800 126">
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="126" fill="#E2DBD0"/>
+
+  <!-- Row 1: y=16, h=22 — same as stenmurslinje.svg -->
+  <rect x="0" y="16" width="62" height="22" fill="#A91C1C"/>
+  <rect x="65" y="16" width="108" height="22" fill="#A91C1C"/>
+  <rect x="176" y="16" width="39" height="22" fill="#A91C1C"/>
+  <rect x="218" y="16" width="85" height="22" fill="#2F5731"/>
+  <rect x="306" y="16" width="54" height="22" fill="#A91C1C"/>
+  <rect x="363" y="16" width="124" height="22" fill="#A91C1C"/>
+  <rect x="490" y="16" width="46" height="22" fill="#FECB00"/>
+  <rect x="539" y="16" width="93" height="22" fill="#A91C1C"/>
+  <rect x="635" y="16" width="70" height="22" fill="#A91C1C"/>
+  <rect x="708" y="16" width="92" height="22" fill="#2F5731"/>
+
+  <!-- Row 2: y=50, h=22 — 9 blocks -->
+  <!-- Block 1: 93px, x=0, red -->
+  <rect x="0" y="50" width="93" height="22" fill="#A91C1C"/>
+  <!-- Block 2: 62px, x=96, green -->
+  <rect x="96" y="50" width="62" height="22" fill="#2F5731"/>
+  <!-- Block 3: 140px, x=161, red -->
+  <rect x="161" y="50" width="140" height="22" fill="#A91C1C"/>
+  <!-- Block 4: 47px, x=304, yellow -->
+  <rect x="304" y="50" width="47" height="22" fill="#FECB00"/>
+  <!-- Block 5: 109px, x=354, red -->
+  <rect x="354" y="50" width="109" height="22" fill="#A91C1C"/>
+  <!-- Block 6: 78px, x=466, green -->
+  <rect x="466" y="50" width="78" height="22" fill="#2F5731"/>
+  <!-- Block 7: 70px, x=547, red -->
+  <rect x="547" y="50" width="70" height="22" fill="#A91C1C"/>
+  <!-- Block 8: 116px, x=620, red -->
+  <rect x="620" y="50" width="116" height="22" fill="#A91C1C"/>
+  <!-- Block 9: 61px, x=739, red -->
+  <rect x="739" y="50" width="61" height="22" fill="#A91C1C"/>
+
+  <!-- Row 3: y=84, h=22 — 9 blocks -->
+  <!-- Block 1: 70px, x=0, red -->
+  <rect x="0" y="84" width="70" height="22" fill="#A91C1C"/>
+  <!-- Block 2: 109px, x=73, green -->
+  <rect x="73" y="84" width="109" height="22" fill="#2F5731"/>
+  <!-- Block 3: 54px, x=185, red -->
+  <rect x="185" y="84" width="54" height="22" fill="#A91C1C"/>
+  <!-- Block 4: 85px, x=242, red -->
+  <rect x="242" y="84" width="85" height="22" fill="#A91C1C"/>
+  <!-- Block 5: 140px, x=330, red -->
+  <rect x="330" y="84" width="140" height="22" fill="#A91C1C"/>
+  <!-- Block 6: 62px, x=473, yellow -->
+  <rect x="473" y="84" width="62" height="22" fill="#FECB00"/>
+  <!-- Block 7: 101px, x=538, red -->
+  <rect x="538" y="84" width="101" height="22" fill="#A91C1C"/>
+  <!-- Block 8: 78px, x=642, green -->
+  <rect x="642" y="84" width="78" height="22" fill="#2F5731"/>
+  <!-- Block 9: 77px, x=723, red -->
+  <rect x="723" y="84" width="77" height="22" fill="#A91C1C"/>
+</svg>

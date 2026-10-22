@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <!-- White background -->
+  <rect x="0" y="0" width="800" height="200" fill="#FFFFFF"/>
+
+  <!-- Swatch 1: Matchgul #FECB00, x=0, 200px wide -->
+  <rect x="0" y="0" width="200" height="120" fill="#FECB00"/>
+  <!-- Name and hex inside swatch in black -->
+  <text x="12" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#333333">MATCHGUL</text>
+  <text x="12" y="113" font-family="Arial" font-size="11" fill="#555555">#FECB00</text>
+  <!-- Role below swatch -->
+  <text x="12" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">MATCHGUL</text>
+  <text x="12" y="158" font-family="Arial" font-size="11" fill="#888884">#FECB00</text>
+  <text x="12" y="174" font-family="Arial" font-size="12" fill="#666666">Accent. Siffror, etiketter.</text>
+
+  <!-- Swatch 2: Retrogrön #99C1A2, x=200, 200px wide -->
+  <rect x="200" y="0" width="200" height="120" fill="#99C1A2"/>
+  <!-- Name and hex inside swatch in dark -->
+  <text x="212" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#333333">RETROGRÖN</text>
+  <text x="212" y="113" font-family="Arial" font-size="11" fill="#555555">#99C1A2</text>
+  <!-- Role below swatch -->
+  <text x="212" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">RETROGRÖN</text>
+  <text x="212" y="158" font-family="Arial" font-size="11" fill="#888884">#99C1A2</text>
+  <text x="212" y="174" font-family="Arial" font-size="12" fill="#666666">Ungdom &amp; utbildning.</text>
+
+  <!-- Swatch 3: Stenmursgrå #888884, x=400, 200px wide -->
+  <rect x="400" y="0" width="200" height="120" fill="#888884"/>
+  <!-- Name and hex inside swatch in white -->
+  <text x="412" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#FFFFFF">STENMURSGRÅ</text>
+  <text x="412" y="113" font-family="Arial" font-size="11" fill="rgba(255,255,255,0.7)">#888884</text>
+  <!-- Role below swatch -->
+  <text x="412" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">STENMURSGRÅ</text>
+  <text x="412" y="158" font-family="Arial" font-size="11" fill="#888884">#888884</text>
+  <text x="412" y="174" font-family="Arial" font-size="12" fill="#666666">Neutral. Bildtexter.</text>
+
+  <!-- Swatch 4: Kritlinje #F2F2F2, x=600, 200px wide, with border -->
+  <rect x="600" y="0" width="200" height="120" fill="#F2F2F2" stroke="#CCCCCC" stroke-width="1"/>
+  <!-- Name and hex inside swatch in dark -->
+  <text x="612" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#333333">KRITLINJE</text>
+  <text x="612" y="113" font-family="Arial" font-size="11" fill="#666666">#F2F2F2</text>
+  <!-- Role below swatch -->
+  <text x="612" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">KRITLINJE</text>
+  <text x="612" y="158" font-family="Arial" font-size="11" fill="#888884">#F2F2F2</text>
+  <text x="612" y="174" font-family="Arial" font-size="12" fill="#666666">Block, planlinjer.</text>
+</svg>

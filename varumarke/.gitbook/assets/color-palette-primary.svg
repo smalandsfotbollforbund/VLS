@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <!-- White background -->
+  <rect x="0" y="0" width="800" height="200" fill="#FFFFFF"/>
+
+  <!-- Swatch 1: Smålandsröd #A91C1C, x=0 -->
+  <rect x="0" y="0" width="160" height="120" fill="#A91C1C"/>
+  <!-- Name and hex inside swatch in white -->
+  <text x="12" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#FFFFFF">SMÅLANDSRÖD</text>
+  <text x="12" y="113" font-family="Arial" font-size="11" fill="rgba(255,255,255,0.7)">#A91C1C</text>
+  <!-- Role below swatch -->
+  <text x="12" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">SMÅLANDSRÖD</text>
+  <text x="12" y="158" font-family="Arial" font-size="11" fill="#888884">#A91C1C</text>
+  <text x="12" y="174" font-family="Arial" font-size="12" fill="#666666">Huvudfärg. Kraft, kamp.</text>
+
+  <!-- Swatch 2: Skogsgrön #2F5731, x=160 -->
+  <rect x="160" y="0" width="160" height="120" fill="#2F5731"/>
+  <!-- Name and hex inside swatch in white -->
+  <text x="172" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#FFFFFF">SKOGSGRÖN</text>
+  <text x="172" y="113" font-family="Arial" font-size="11" fill="rgba(255,255,255,0.7)">#2F5731</text>
+  <!-- Role below swatch -->
+  <text x="172" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">SKOGSGRÖN</text>
+  <text x="172" y="158" font-family="Arial" font-size="11" fill="#888884">#2F5731</text>
+  <text x="172" y="174" font-family="Arial" font-size="12" fill="#666666">Stöd. Natur, trygghet.</text>
+
+  <!-- Swatch 3: Torparbeige #E2DBD0, x=320, with border -->
+  <rect x="320" y="0" width="160" height="120" fill="#E2DBD0" stroke="#CCCCCC" stroke-width="1"/>
+  <!-- Name inside swatch in dark text -->
+  <text x="332" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#333333">TORPARBEIGE</text>
+  <text x="332" y="113" font-family="Arial" font-size="11" fill="#666666">#E2DBD0</text>
+  <!-- Role below swatch -->
+  <text x="332" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">TORPARBEIGE</text>
+  <text x="332" y="158" font-family="Arial" font-size="11" fill="#888884">#E2DBD0</text>
+  <text x="332" y="174" font-family="Arial" font-size="12" fill="#666666">Bakgrund. Värme.</text>
+
+  <!-- Swatch 4: Linnevit #FFFFFF, x=480, with border -->
+  <rect x="480" y="0" width="160" height="120" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="1"/>
+  <!-- Name inside swatch in dark text -->
+  <text x="492" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#333333">LINNEVIT</text>
+  <text x="492" y="113" font-family="Arial" font-size="11" fill="#666666">#FFFFFF</text>
+  <!-- Role below swatch -->
+  <text x="492" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">LINNEVIT</text>
+  <text x="492" y="158" font-family="Arial" font-size="11" fill="#888884">#FFFFFF</text>
+  <text x="492" y="174" font-family="Arial" font-size="12" fill="#666666">Luft. Enkelhet.</text>
+
+  <!-- Swatch 5: Kolsvart #333333, x=640 -->
+  <rect x="640" y="0" width="160" height="120" fill="#333333"/>
+  <!-- Name and hex inside swatch in white -->
+  <text x="652" y="98" font-family="Arial Black, Arial" font-weight="900" font-size="13" fill="#FFFFFF">KOLSVART</text>
+  <text x="652" y="113" font-family="Arial" font-size="11" fill="rgba(255,255,255,0.7)">#333333</text>
+  <!-- Role below swatch -->
+  <text x="652" y="142" font-family="Arial Black, Arial" font-weight="900" font-size="11" fill="#333333">KOLSVART</text>
+  <text x="652" y="158" font-family="Arial" font-size="11" fill="#888884">#333333</text>
+  <text x="652" y="174" font-family="Arial" font-size="12" fill="#666666">Text. Kontrast.</text>
+</svg>

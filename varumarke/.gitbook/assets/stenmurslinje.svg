@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="22" viewBox="0 0 800 22">
+  <!-- Block 1: red, 62px, x=0 -->
+  <rect x="0" y="0" width="62" height="22" fill="#A91C1C"/>
+  <!-- Block 2: red, 108px, x=65 -->
+  <rect x="65" y="0" width="108" height="22" fill="#A91C1C"/>
+  <!-- Block 3: red, 39px, x=176 -->
+  <rect x="176" y="0" width="39" height="22" fill="#A91C1C"/>
+  <!-- Block 4: green, 85px, x=218 -->
+  <rect x="218" y="0" width="85" height="22" fill="#2F5731"/>
+  <!-- Block 5: red, 54px, x=306 -->
+  <rect x="306" y="0" width="54" height="22" fill="#A91C1C"/>
+  <!-- Block 6: red, 124px, x=363 -->
+  <rect x="363" y="0" width="124" height="22" fill="#A91C1C"/>
+  <!-- Block 7: yellow, 46px, x=490 -->
+  <rect x="490" y="0" width="46" height="22" fill="#FECB00"/>
+  <!-- Block 8: red, 93px, x=539 -->
+  <rect x="539" y="0" width="93" height="22" fill="#A91C1C"/>
+  <!-- Block 9: red, 70px, x=635 -->
+  <rect x="635" y="0" width="70" height="22" fill="#A91C1C"/>
+  <!-- Block 10: green, 92px, x=708 -->
+  <rect x="708" y="0" width="92" height="22" fill="#2F5731"/>
+</svg>
