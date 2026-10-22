@@ -1,0 +1,49 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Smålands Fotbollförbund
+  structure:
+    - type: section
+      key: section-1
+      title: Styrning
+      path: modell
+      description: ""
+      icon: square-binary
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: styrmodell
+          path: styrmodell
+          default: true
+          content:
+            directory: ./modell/styrmodell
+            language: sv
+    - type: section
+      key: section-3
+      title: Dokument
+      path: dokument
+      icon: files
+      children:
+        - type: space
+          key: space-3
+          title: styrdokument
+          path: styrdokument
+          default: true
+          content:
+            directory: ./dokument/styrdokument
+            language: sv
+    - type: section
+      key: section-2
+      title: Varumärke
+      path: varumarke
+      description: ""
+      icon: dice
+      children:
+        - type: space
+          key: space-2
+          title: varumarkesmanual
+          path: varumarkesmanual
+          default: true
+          content:
+            directory: ./varumarke/varumarkesmanual
+            language: sv
