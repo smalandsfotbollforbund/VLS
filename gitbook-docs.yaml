@@ -16,7 +16,7 @@ site:
           path: styrmodell
           default: true
           content:
-            directory: ./modell/styrmodell
+            directory: ./modell
             language: sv
     - type: section
       key: section-3
@@ -30,7 +30,7 @@ site:
           path: styrdokument
           default: true
           content:
-            directory: ./dokument/styrdokument
+            directory: ./dokument
             language: sv
     - type: section
       key: section-2
@@ -45,5 +45,5 @@ site:
           path: varumarkesmanual
           default: true
           content:
-            directory: ./varumarke/varumarkesmanual
+            directory: ./varumarke
             language: sv
