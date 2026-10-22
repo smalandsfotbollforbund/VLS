@@ -22,11 +22,12 @@ site:
       key: section-3
       title: Dokument
       path: dokument
+      description: ""
       icon: files
       children:
         - type: space
           key: space-3
-          title: styrdokument
+          title: Dokument
           path: styrdokument
           default: true
           content:
