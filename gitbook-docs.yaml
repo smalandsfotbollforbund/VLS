@@ -4,7 +4,7 @@ site:
   structure:
     - type: section
       key: section-1
-      title: Styrning
+      title: Modell
       path: modell
       description: ""
       icon: square-binary
@@ -12,7 +12,7 @@ site:
       children:
         - type: space
           key: space-1
-          title: styrmodell
+          title: Modell
           path: styrmodell
           default: true
           content:
