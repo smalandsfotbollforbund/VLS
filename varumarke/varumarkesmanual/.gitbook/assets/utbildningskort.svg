@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="460" viewBox="0 0 400 460">
+  <!-- Torparbeige background -->
+  <rect x="0" y="0" width="400" height="460" fill="#E2DBD0"/>
+
+  <!-- Simplified emblem at top left -->
+  <circle cx="54" cy="62" r="36" fill="none" stroke="#A91C1C" stroke-width="1.5"/>
+  <circle cx="54" cy="62" r="30" fill="none" stroke="#A91C1C" stroke-width="0.75"/>
+  <text x="54" y="65" font-family="Arial" font-weight="700" font-size="9" fill="#A91C1C" text-anchor="middle" dominant-baseline="middle">SMFF</text>
+
+  <!-- Category text -->
+  <text x="105" y="56" font-family="Arial" font-weight="600" font-size="10" fill="#2F5731" letter-spacing="2">&#9733; TRÄNARUTBILDNING</text>
+
+  <!-- Title line 1 -->
+  <text x="44" y="126" font-family="Arial Black, Arial" font-weight="900" font-size="46" fill="#A91C1C">SVFF C —</text>
+
+  <!-- Title line 2 -->
+  <text x="44" y="174" font-family="Arial Black, Arial" font-weight="900" font-size="46" fill="#A91C1C">BARNTRÄNARE</text>
+
+  <!-- Description line 1 -->
+  <text x="44" y="212" font-family="Arial" font-weight="300" font-size="14" fill="#444444">För dig som leder barn och ungdomar i</text>
+
+  <!-- Description line 2 -->
+  <text x="44" y="232" font-family="Arial" font-weight="300" font-size="14" fill="#444444">förening. Tre kvällar, ett helgpass.</text>
+
+  <!-- Stenmurslinje at y=262, h=18, full width 400 -->
+  <!-- 10-block pattern scaled to 400px total, 9×3px gaps = 27px, available = 373px -->
+  <!-- Proportions roughly as per block 1–10 pattern -->
+  <!-- Block 1: ~8% of 373 = 30px, x=0 -->
+  <rect x="0" y="262" width="30" height="18" fill="#A91C1C"/>
+  <!-- Block 2: ~14% = 52px, x=33 -->
+  <rect x="33" y="262" width="52" height="18" fill="#A91C1C"/>
+  <!-- Block 3: ~5% = 19px, x=88 -->
+  <rect x="88" y="262" width="19" height="18" fill="#A91C1C"/>
+  <!-- Block 4: ~11% = 41px, x=110 -->
+  <rect x="110" y="262" width="41" height="18" fill="#2F5731"/>
+  <!-- Block 5: ~7% = 26px, x=154 -->
+  <rect x="154" y="262" width="26" height="18" fill="#A91C1C"/>
+  <!-- Block 6: ~16% = 60px, x=183 -->
+  <rect x="183" y="262" width="60" height="18" fill="#A91C1C"/>
+  <!-- Block 7: ~6% = 22px, x=246 -->
+  <rect x="246" y="262" width="22" height="18" fill="#FECB00"/>
+  <!-- Block 8: ~12% = 45px, x=271 -->
+  <rect x="271" y="262" width="45" height="18" fill="#A91C1C"/>
+  <!-- Block 9: ~9% = 34px, x=319 -->
+  <rect x="319" y="262" width="34" height="18" fill="#A91C1C"/>
+  <!-- Block 10: ~12% = 44px, x=356 -->
+  <rect x="356" y="262" width="44" height="18" fill="#2F5731"/>
+
+  <!-- Three detail boxes at bottom -->
+  <!-- Box 1: x=44 w=88 h=80, y=310 -->
+  <rect x="44" y="310" width="88" height="80" fill="#FFFFFF"/>
+  <text x="88" y="334" font-family="Arial" font-weight="600" font-size="9" fill="#888884" text-anchor="middle" letter-spacing="2">DATUM</text>
+  <text x="88" y="358" font-family="Arial Black, Arial" font-weight="900" font-size="16" fill="#333333" text-anchor="middle">12 OKT</text>
+
+  <!-- Box 2: x=156 w=88 h=80 -->
+  <rect x="156" y="310" width="88" height="80" fill="#FFFFFF"/>
+  <text x="200" y="334" font-family="Arial" font-weight="600" font-size="9" fill="#888884" text-anchor="middle" letter-spacing="2">PLATS</text>
+  <text x="200" y="358" font-family="Arial Black, Arial" font-weight="900" font-size="16" fill="#333333" text-anchor="middle">VÄXJÖ</text>
+
+  <!-- Box 3: x=268 w=88 h=80 -->
+  <rect x="268" y="310" width="88" height="80" fill="#FFFFFF"/>
+  <text x="312" y="334" font-family="Arial" font-weight="600" font-size="9" fill="#888884" text-anchor="middle" letter-spacing="2">ANMÄLAN</text>
+  <text x="312" y="358" font-family="Arial Black, Arial" font-weight="900" font-size="16" fill="#333333" text-anchor="middle">5 OKT</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="580" viewBox="0 0 400 580">
+  <!-- Red background -->
+  <rect x="0" y="0" width="400" height="580" fill="#A91C1C"/>
+
+  <!-- Grid overlay: 7 vertical lines -->
+  <line x1="50" y1="0" x2="50" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <line x1="100" y1="0" x2="100" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <line x1="150" y1="0" x2="150" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <line x1="250" y1="0" x2="250" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <line x1="350" y1="0" x2="350" y2="580" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+
+  <!-- Top tag text -->
+  <text x="44" y="75" font-family="Arial" font-weight="600" font-size="11" fill="rgba(255,255,255,0.65)" letter-spacing="3">&#9733; FÖR FOTBOLLEN. FÖR SMÅLAND.</text>
+
+  <!-- Headline: FÖRENINGEN -->
+  <text x="44" y="190" font-family="Arial Black, Arial" font-weight="900" font-size="72" fill="#FFFFFF">FÖRENINGEN</text>
+
+  <!-- Headline: FÖRST. in yellow -->
+  <text x="44" y="272" font-family="Arial Black, Arial" font-weight="900" font-size="72" fill="#FECB00">FÖRST.</text>
+
+  <!-- Horizontal line -->
+  <line x1="44" y1="340" x2="356" y2="340" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+
+  <!-- Meta label -->
+  <text x="44" y="363" font-family="Arial" font-weight="700" font-size="11" fill="#FECB00" letter-spacing="2">KAMPANJ 2024</text>
+
+  <!-- Meta text line 1 -->
+  <text x="44" y="384" font-family="Arial" font-size="13" fill="rgba(255,255,255,0.8)">All fotboll börjar någonstans. Ofta med</text>
+
+  <!-- Meta text line 2 -->
+  <text x="44" y="402" font-family="Arial" font-size="13" fill="rgba(255,255,255,0.8)">en nyckelknippa och en kaffetermos.</text>
+
+  <!-- Simplified emblem at bottom right -->
+  <circle cx="340" cy="520" r="40" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.5"/>
+  <circle cx="340" cy="520" r="34" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="0.75"/>
+  <text x="340" y="522" font-family="Arial" font-size="7" fill="rgba(255,255,255,0.4)" text-anchor="middle" dominant-baseline="middle">&#9733; SMFF &#9733;</text>
+</svg>
