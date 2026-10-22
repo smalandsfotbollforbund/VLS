@@ -4,6 +4,8 @@ description: >-
   Nämligen hur vision, mission, verksamhetsidé, inriktningar, prioriteringar och
   mål hålls ihop från strategi till vardag.
 icon: bullseye-arrow
+cover: ../.gitbook/assets/cover-avsnitt-strategi.svg
+coverY: 0
 ---
 
 # Strategi och operativt uppdrag
