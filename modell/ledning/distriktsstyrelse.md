@@ -107,3 +107,31 @@ Där bör det framgå hur sammanträden planeras, hur ärenden bereds, hur beslu
 En bra distriktsstyrelse syns inte genom att vara inne i varje detalj. Den märks genom att organisationen vet vad som gäller, vart den är på väg och vem som ansvarar för nästa steg.
 
 Det är styrelsens småländska uppgift: hålla riktningen stadig, mandatet rent och uppföljningen tillräckligt nära.
+
+## Jäv och intressekonflikter
+
+En styrelseledamot är jävig i ett ärende om ledamoten eller någon närstående har ett personligt intresse som kan påverka objektiviteten. Jäv är inte ett anklagande — det är ett skydd för ledamoten och för styrelsens legitimitet.
+
+### Anmälningsskyldighet
+
+En ledamot som bedömer sig vara jävig i ett ärende ska anmäla det innan ärendet behandlas. Ledamoten ska i normalfallet lämna sammanträdet under handläggningen av ärendet.
+
+### Vad som ska protokollföras
+
+Att jäv anmälts, vem som lämnat sammanträdet och i vilket ärende ska framgå av protokollet.
+
+### Gråzoner avgörs i förväg
+
+Om en ledamot är osäker på om jäv föreligger ska frågan lyftas öppet i styrelsen innan ärendet behandlas, inte lösas tyst. En öppen hantering stärker förtroendet; tystnad gör tvärtom.
+
+Den konkreta jävspolicyn — inklusive definitioner, exempel och hantering av återkommande situationer — finns i [dokumentarkivet](https://styrning.smaland.football/dokument).
+
+## Arvoden och ersättningar
+
+Beslut om arvoden till förtroendevalda fattas av [årsmötet](../demokrati/arsmote.md). Det inkluderar grundarvoden, mötesarvoden och eventuella ersättningar för utlägg.
+
+Distriktsstyrelsen beslutar inte om sina egna arvoden. Det är en grundläggande princip för att arvodesbeslut ska ha demokratisk legitimitet.
+
+Distriktschefen och övrig personal är anställd personal vars villkor regleras av anställningsavtal och gällande kollektivavtal, inte av styrmodellen.
+
+Principerna för hur arvoden fastställs, revideras och redovisas finns i arvodespolicyn i [dokumentarkivet](https://styrning.smaland.football/dokument).

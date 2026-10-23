@@ -58,6 +58,21 @@ Styrmodellens grund beskrivs i [folkrörelseprincip och demokratisk styrning](gr
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="readme/om-smalands-fotbollforbund.md"><strong>Introduktion</strong></a><br>Om distriktet, hur du läser styrmodellen och ordlista.</td><td><a href=".gitbook/assets/cover-kort-om-smff.svg">cover-kort-om-smff.svg</a></td></tr><tr><td><a href="grund/folkrorelse.md"><strong>Grund och värden</strong></a><br>Folkrörelseprincip och demokratisk styrning, värdegrund, normordning och styrande principer.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-grund.svg">cover-kort-avsnitt-grund.svg</a></td></tr><tr><td><a href="organisation/styrarkitektur.md"><strong>Organisationens struktur</strong></a><br>Hur distriktets nivåer och relationer hänger ihop.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-organisation.svg">cover-kort-avsnitt-organisation.svg</a></td></tr><tr><td><a href="demokrati/arsmote.md"><strong>Demokratisk styrning</strong></a><br>Årsmöte, representantskap, ombud, motioner och medlemsinflytande.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-demokrati.svg">cover-kort-avsnitt-demokrati.svg</a></td></tr><tr><td><a href="ledning/distriktsstyrelse.md"><strong>Distriktsstyrelsen och ledningen</strong></a><br>Distriktsstyrelse, presidium, distriktschef, kansli, delegation, intern kontroll och attest.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-ledning.svg">cover-kort-avsnitt-ledning.svg</a></td></tr><tr><td><a href="underliggande-organ/kommitteer.md"><strong>Kommittéer och underliggande organ</strong></a><br>Kommittéer, arbetsutskott, arbetsgrupper och referensgrupper.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-underliggande.svg">cover-kort-avsnitt-underliggande.svg</a></td></tr><tr><td><a href="granskande/valberedning.md"><strong>Granskande funktioner</strong></a><br>Valberedning, revision, lekmannarevision och disciplinnämnd.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-granskande.svg">cover-kort-avsnitt-granskande.svg</a></td></tr><tr><td><a href="strategi/"><strong>Strategi och operativt uppdrag</strong></a><br>Strategihus, verksamhetsområden, basuppgifter, mål, planering och ansvarsmatris.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-strategi.svg">cover-kort-avsnitt-strategi.svg</a></td></tr><tr><td><a href="arbetssatt/beredning-beslut-och-verkstallighet.md"><strong>Processer och arbetssätt</strong></a><br>Beredning, beslut, verkställighet, uppföljning, dokumentation och möten.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-arbetssatt.svg">cover-kort-avsnitt-arbetssatt.svg</a></td></tr><tr><td><a href="styrande-dokument/arkitektur.md"><strong>Styrande dokument</strong></a><br>Dokumentarkitektur och externa bärande dokument.</td><td><a href=".gitbook/assets/cover-kort-avsnitt-dokument.svg">cover-kort-avsnitt-dokument.svg</a></td></tr></tbody></table>
 
+## Vad är nytt
+
+Styrmodellen är ett levande dokument. Senaste uppdateringen tillförde:
+
+* **[Kom igång](readme/kom-igang.md)** — rollbaserad guide för att snabbt hitta rätt i modellen
+* **[Krishantering](arbetssatt/krishantering.md)** — hur distriktet aktiverar och genomför krisledning
+* **[Utövarrepresentation](demokrati/demokratisk-legitimitet-och-medlemsinflytande.md)** — hur spelare, tränare och domare kan ge input till styrningen
+* **[Hållbarhet som ansvar](grund/vardegrund.md)** — ekonomisk, miljömässig och social hållbarhet som del av värdegrunden
+* **[Riskhantering och digital styrning](ledning/intern-kontroll-och-attest.md)** — styrelsenivåns riskarbete och GDPR-ansvar
+* **[Styrningsrapport](arbetssatt/uppfoljning-och-aterrapportering.md)** — årlig uppföljning av styrningen i sig, inte bara verksamheten
+* **[Jäv och arvoden](ledning/distriktsstyrelse.md)** — principer för intressekonflikter och arvodeshantering
+* **[Årshjulet](strategi/planering-uppfoljning-och-arscykel.md)** — samlad bild av när i året vad sker
+
+---
+
 {% hint style="info" icon="arrows-retweet" %}
 ## Ägare av styrmodellen är distriktsstyrelsen som också ansvarar för att den är aktuell.
 

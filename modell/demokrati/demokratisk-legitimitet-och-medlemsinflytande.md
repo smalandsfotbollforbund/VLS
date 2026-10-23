@@ -133,3 +133,15 @@ När distriktet väljer väg i en demokratisk fråga är en enkel fråga ofta an
 
 Om svaret är nej behöver arbetssättet, informationen eller beslutsvägen prövas igen. Inte för att göra allt större, utan för att hålla demokratin nära där den hör hemma.
 {% endhint %}
+
+## Utövarrepresentation — spelare, tränare och domare
+
+Styrmodellen är uppbyggd kring föreningarnas demokratiska mandat. Men distriktet berör också aktiva utövare — spelare, tränare, domare och funktionärer — som inte alltid är representerade genom sina föreningar i de frågor som rör dem direkt.
+
+Utövare kan ge synpunkter och bidra med perspektiv via:
+
+- **Referensgrupper** som kansliet eller kommittéerna tillsätter för specifika frågor
+- **Riktade samråd** inför beslut som berör en viss utövargrupp
+- **Motioner** via sin förening till årsmötet
+
+SmFF strävar efter att utövarnas perspektiv finns med i beredningen av frågor som påverkar dem direkt. Det stärker demokratisk legitimitet utöver den formella föreningskanalen.
