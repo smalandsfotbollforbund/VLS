@@ -3,7 +3,6 @@ description: >-
   Distriktet styrs inte som ett företag eftersom det inte ägs av någon. Det
   styrs som en folkrörelse eftersom det ytterst är medlemsföreningarna som ger
   organisationen dess uppdrag.
-icon: house-heart
 cover: ../.gitbook/assets/cover-avsnitt-grund.svg
 coverY: 0
 layout:
