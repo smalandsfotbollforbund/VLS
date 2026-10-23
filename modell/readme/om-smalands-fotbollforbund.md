@@ -61,7 +61,7 @@ I styrmodellen används **Smålands Fotbollförbund** eller **distriktet** i lö
 {% endcolumn %}
 
 {% column %}
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2>29 330 km<sup>2</sup></h2></td><td><strong>Distriktets landyta, innebär långa avstånd</strong></td><td><sup>Det fjärde största distriktet till yta</sup></td><td>Arbetssätt, möten och stöd behöver fungera över hela distriktet.</td></tr><tr><td><h2>XXX</h2></td><td><strong>Olika behov</strong></td><td></td><td>En styrmodell behöver vara tydlig nog för helheten och jordnära nog för vardagen.</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2>29 330 km<sup>2</sup></h2></td><td><strong>Distriktets landyta, innebär långa avstånd</strong></td><td><sup>Det fjärde största distriktet till yta</sup></td><td>Arbetssätt, möten och stöd behöver fungera över hela distriktet.</td></tr><tr><td><strong>Stor variation</strong></td><td><strong>Olika förutsättningar</strong></td><td><sup>Från storstadsklubbar till föreningar i glesbygd</sup></td><td>En styrmodell behöver vara tydlig nog för helheten och jordnära nog för vardagen.</td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 

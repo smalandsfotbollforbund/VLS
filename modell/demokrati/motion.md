@@ -59,6 +59,3 @@ Det betyder att en bra beredning redovisar: vad motionen föreslår, om det är 
 
 En förening som ser en fråga som organisationen har missat har rätt att driva den till beslut. Det är det motionsrätten är till för. Distriktet är bättre tjänat av en motion som är ofullständig men ärlig än av en viktig fråga som vandrar runt i korridorssamtal utan tydlig hemvist.
 
-
-
-\[LÄNK TILL EN MALL FÖR HUR EN MOTION KAN UTFORMAS]

@@ -14,7 +14,7 @@ Smålands Fotbollförbund är en del av den svenska [idrottsrörelsen](../organi
 
 ## Fotbollen byggdes underifrån
 
-Den organiserade fotbollen växte fram genom att människor gick samman i föreningar. På ort efter ort skapades verksamhet genom friilligt engagemang, gemensamt ansvar och demokratiska beslut.
+Den organiserade fotbollen växte fram genom att människor gick samman i föreningar. På ort efter ort skapades verksamhet genom frivilligt engagemang, gemensamt ansvar och demokratiska beslut.
 
 När föreningarna blev fler uppstod behovet av samordning. Tävlingar skulle organiseras, regler skulle vara gemensamma och fotbollen behövde utvecklas även utanför den enskilda föreningen.&#x20;
 
