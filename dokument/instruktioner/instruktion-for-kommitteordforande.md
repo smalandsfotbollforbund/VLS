@@ -54,7 +54,7 @@ Underlag saknas.
 * **Vilar på:** [Delegationsordning för distriktsstyrelsen](../delegationsordningar/delegationsordning-for-distriktsstyrelsen.md), arbetsordningen för din kommitté (se avsnitt 2)
 * **Hör ihop med:** [Instruktion för kommittéledamot](instruktion-for-kommitteledamot.md), [Instruktion för kommittésekreterare](instruktion-for-kommittesekreterare.md), [Instruktion för distriktschef](instruktion-for-distriktschef.md)
 * **Ersätter:** Befattningsbeskrivning för kommittéordförande (Word-dokument) och delen om ordförande i arbets- och delegationsordningarna för kommittéerna
-* **Förklaras i styrmodellen:** [Kommittéer](https://styrning.smaland.football/underliggande-organ/kommitteer), [Ansvar och roller](https://styrning.smaland.football/organisation/ansvar-och-roller), [Ansvarsmatris](https://styrning.smaland.football/organisation/ansvarsmatris)
+* **Förklaras i styrmodellen:** Kommittéer, Ansvar och roller, Ansvarsmatris
 
 ## 10. Beslutshistorik
 

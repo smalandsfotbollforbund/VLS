@@ -4,7 +4,7 @@ Den här delegationsordningen anger vem som får besluta vad när distriktsstyre
 
 ## 1. Grund och principer
 
-Distriktsstyrelsen får delegera sin beslutanderätt i närmare angivna ärenden till en enskild styrelseledamot eller en kommitté. Det följer av [4 kap. 1 § och 3 § i stadgarna](../stadgar/stadgar-for-smalands-fotbollforbund.md). Delegationen är skriftlig och avgränsad. Ansvaret finns kvar hos distriktsstyrelsen. Principerna förklaras i [Delegation](https://styrning.smaland.football/ledning/delegation).
+Distriktsstyrelsen får delegera sin beslutanderätt i närmare angivna ärenden till en enskild styrelseledamot eller en kommitté. Det följer av [4 kap. 1 § och 3 § i stadgarna](../stadgar/stadgar-for-smalands-fotbollforbund.md). Delegationen är skriftlig och avgränsad. Ansvaret finns kvar hos distriktsstyrelsen. Principerna förklaras i styrmodellen under Delegation.
 
 ## 2. Så läser du tabellerna
 
@@ -111,7 +111,7 @@ Fullmakter för bankkonton, betalningar och signering av bankfiler i Swedbanks i
 
 ### Attest
 
-Attesteringen gäller alla ekonomiska transaktioner i distriktets verksamhet. Syftet är god intern kontroll, tydlig ansvarsfördelning och korrekt hantering av distriktets ekonomiska medel. Principerna förklaras i [Intern kontroll och attest](https://styrning.smaland.football/ledning/intern-kontroll-och-attest).
+Attesteringen gäller alla ekonomiska transaktioner i distriktets verksamhet. Syftet är god intern kontroll, tydlig ansvarsfördelning och korrekt hantering av distriktets ekonomiska medel. Principerna förklaras i styrmodellen under Intern kontroll och attest.
 
 Alla fakturor och kostnader ska attesteras av den berörda ansvariga tjänstepersonen (sakattest) och slutattesteras av distriktschefen. Då attesterar minst två personer varje faktura. Distriktsstyrelsen kan utse ytterligare en attestant, eller göra det efter rekommendation från revisorerna. Då attesterar tre personer.
 
@@ -164,7 +164,7 @@ Distriktsstyrelsen beslutar om delegationsordningen och om ändringar i den. Den
 * **Konkretiseras av:** [Instruktion för distriktschef](../instruktioner/instruktion-for-distriktschef.md), [Instruktion för kommittéordförande](../instruktioner/instruktion-for-kommitteordforande.md), [Instruktion för kommittéledamot](../instruktioner/instruktion-for-kommitteledamot.md), [Instruktion för kommittésekreterare](../instruktioner/instruktion-for-kommittesekreterare.md), [Instruktion för samordnare i domarkommittén](../instruktioner/instruktion-for-samordnare-i-domarkommitten.md)
 * **Hör ihop med:** [Arbetsordning för anläggningskommittén](../arbetsordningar/arbetsordning-for-anlaggningskommitten.md), [Arbetsordning för domarkommittén](../arbetsordningar/arbetsordning-for-domarkommitten.md), [Arbetsordning för föreningskommittén](../arbetsordningar/arbetsordning-for-foreningskommitten.md), [Arbetsordning för tävlingskommittén](../arbetsordningar/arbetsordning-for-tavlingskommitten.md), [Arbetsordning för utvecklingskommittén](../arbetsordningar/arbetsordning-for-utvecklingskommitten.md)
 * **Ersätter:** Delegationsdelen i arbets- och delegationsordningarna för de fem kommittéerna samt Attesteringsordning (Word-dokument)
-* **Förklaras i styrmodellen:** [Delegation](https://styrning.smaland.football/ledning/delegation), [Intern kontroll och attest](https://styrning.smaland.football/ledning/intern-kontroll-och-attest), [Ansvarsmatris](https://styrning.smaland.football/organisation/ansvarsmatris)
+* **Förklaras i styrmodellen:** Delegation, Intern kontroll och attest, Ansvarsmatris
 
 ## 9. Beslutshistorik
 
