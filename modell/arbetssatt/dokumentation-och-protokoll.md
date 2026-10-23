@@ -4,6 +4,30 @@ description: >-
   hitta, förstå, verkställa och granska.
 cover: ../.gitbook/assets/cover-dokumentation.svg
 coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Dokumentation och protokoll

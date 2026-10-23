@@ -4,6 +4,30 @@ description: >-
   som önskemål, utan som förslag till beslut på rätt demokratisk nivå.
 cover: ../.gitbook/assets/cover-motioner.svg
 coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Motioner och initiativrätt

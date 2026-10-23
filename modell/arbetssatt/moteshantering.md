@@ -3,6 +3,30 @@ cover: ../.gitbook/assets/cover-moteshantering.svg
 description: >-
   Hur möten planeras och genomförs så att rätt mötestyp, rätt mandat och rätt
   nästa steg blir tydliga.
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Möteshantering

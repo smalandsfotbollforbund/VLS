@@ -3,6 +3,30 @@ cover: ../.gitbook/assets/cover-hedersordforande.svg
 description: >-
   Hur hedersordförande och hedersledamot hedrar betydelsefulla insatser utan att
   skapa otydliga beslutsmandat.
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Hedersordförande och hedersledamot
