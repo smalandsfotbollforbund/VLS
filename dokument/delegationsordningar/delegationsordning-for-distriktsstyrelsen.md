@@ -18,12 +18,18 @@ Distriktsstyrelsen får delegera sin beslutanderätt i närmare angivna ärenden
 
 ## 3. Delegationstabeller
 
+### Distriktsstyrelsen
+
+| Nr | Ärende                                                                                  | Beslutar              | Gräns                                                                                                            | Återrapportering | Grund                |
+| -- | --------------------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------- |
+| S1 | Tillsätta arbetsutskott för strategiska eller tvärfunktionella beredningsuppdrag        | Distriktsstyrelsen    | Arbetsutskottet bereder och återrapporterar till distriktsstyrelsen. Det fattar inga beslut i styrelsens ställe. | Enligt avsnitt 6 | Stadgarna 4 kap. 1 § |
+
 ### Alla kommittéer
 
 | Nr | Ärende                                                                                  | Beslutar           | Gräns                                                                                               | Återrapportering | Grund                |
 | -- | --------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------- | ---------------- | -------------------- |
 | K1 | Besluta i ärenden som är så brådskande att distriktsstyrelsens beslut inte kan avvaktas | Kommittéordförande | Ärendet får inte kunna vänta på distriktsstyrelsens beslut                                          | Enligt avsnitt 6 | Stadgarna 4 kap. 3 § |
-| K3 | Tillsätta arbetsgrupp eller referensgrupp inom kommitténs verksamhet                    | Kommittén          | Arbetsgruppen fattar inga beslut. Villkoren för sammansättning står i arbetsordningen för kommittén | Enligt avsnitt 6 | Stadgarna 4 kap. 3 § |
+| K3 | Tillsätta arbetsgrupp eller referensgrupp inom kommitténs verksamhet                    | Kommittén          | Arbetsgruppen fattar inga beslut. Uppdraget ska vara avgränsat och tidsbestämt, normalt max 3–6 månader. Villkoren för sammansättning står i arbetsordningen för kommittén | Enligt avsnitt 6 | Stadgarna 4 kap. 3 § |
 
 ### Anläggningskommittén
 
