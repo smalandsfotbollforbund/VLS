@@ -2,6 +2,7 @@
 
 * [VÅR STYRMODELL](README.md)
   * [Om Smålands Fotbollförbund](readme/om-smalands-fotbollforbund.md)
+  * [Kom igång med styrmodellen](readme/kom-igang.md)
   * [Begreppslista](readme/begreppslista.md)
 * [Grund och värden](grund/README.md)
   * [Folkrörelse](grund/folkrorelse.md)
@@ -47,6 +48,7 @@
   * [Beredning, beslut och verkställighet](arbetssatt/beredning-beslut-och-verkstallighet.md)
   * [Dokumentation och protokoll](arbetssatt/dokumentation-och-protokoll.md)
   * [Möteshantering](arbetssatt/moteshantering.md)
+  * [Krishantering](arbetssatt/krishantering.md)
 * [Styrande dokument](styrande-dokument/README.md)
   * [Dokumentarkitektur](styrande-dokument/arkitektur.md)
   * [Externa bärande dokument](styrande-dokument/externa.md)

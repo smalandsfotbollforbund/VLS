@@ -17,6 +17,8 @@
 ## Policyer
 
 * [Page 6](policyer/page-6.md)
+* [Jävspolicy](policyer/jav-och-intressekonflikter.md)
+* [Arvodespolicy](policyer/arvodespolicy.md)
 
 ## Arbetsordningar
 
@@ -48,6 +50,14 @@
 ## Processbeskrivningar
 
 * [Page 4](processbeskrivningar/page-4.md)
+
+## Mallar
+
+* [Mall: Styrningsrapport](mallar/styrningsrapport.md)
+
+## Planer
+
+* [Krishanteringsplan](planer/krishanteringsplan.md)
 
 ## Bilagor
 

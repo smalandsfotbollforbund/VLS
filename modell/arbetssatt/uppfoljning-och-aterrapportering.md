@@ -97,3 +97,21 @@ Uppföljning ska inte bara leta fel. Den ska hjälpa organisationen att förstå
 Det gäller särskilt [prioriteringar och mål](../strategi/prioriteringar.md). Det räcker inte alltid att veta vad som har gjorts. Distriktet behöver också förstå vad arbetet har lett till.
 
 En bra återrapportering ska vara ärlig och användbar: hur det går, vad som skaver, vilka risker som finns, vad som behöver beslutas och vem som ansvarar för nästa steg.
+
+## Styrningsrapport — uppföljning av styrningen i sig
+
+En gång per år ska distriktsstyrelsen upprätta och publicera en styrningsrapport. Det är en sammanfattning av hur styrningen fungerat under det gångna året, inte enbart verksamhetens resultat.
+
+Styrningsrapporten bör beskriva:
+
+- Hur styrelsearbetet fungerat i praktiken: närvaro, beredning, beslutsunderlag
+- Väsentliga avvikelser från styrmodellen och hur de hanterats
+- Hur delegationer följts upp
+- Risker som identifierats och åtgärdats
+- Eventuella förbättringsåtgärder inför kommande år
+
+Rapporten är ett transparensverktyg gentemot medlemsföreningarna och är i linje med Riksidrottsförbundets rekommendation för god demokratisk styrning.
+
+{% hint style="info" %}
+Styrningsrapporten publiceras på distriktets webbplats och presenteras för årsmötet. En mall för rapporten finns i [dokumentarkivet](https://styrning.smaland.football/dokument).
+{% endhint %}

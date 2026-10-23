@@ -135,3 +135,30 @@ Intern kontroll är distriktets eget system för att förebygga, upptäcka och h
 Revision och lekmannarevision granskar hur styrning, ekonomi och intern kontroll fungerar. De ska därför stå fria från det arbete de granskar.
 
 Det är skillnaden som gör kontrollen trovärdig: organisationen följer upp sitt eget arbete, och granskande funktioner kan pröva om det fungerar.
+
+## Riskhantering på styrelsenivå
+
+Intern kontroll och riskhantering hör ihop. Den löpande interna kontrollen är ett svar på identifierade risker; riskhantering på styrelsenivå är den systematiska process som identifierar och värderar dem i ett helhetsperspektiv.
+
+Distriktsstyrelsen ska minst en gång per år göra en samlad genomgång av de väsentligaste riskerna distriktet är exponerat mot. Det gäller:
+
+- **Verksamhetsrisker** — hot mot att uppdraget kan fullgöras
+- **Ekonomiska risker** — underskott, oförutsedda kostnader, beroende av enstaka intäktskällor
+- **Ryktesrisker** — händelser som kan skada förtroendet hos föreningarna
+- **Operationella risker** — sårbarhet i processer, nyckelpersoner, it-beroenden
+
+Varje identifierad risk värderas utifrån sannolikhet och konsekvens. Styrelsen beslutar vilka risker som kräver aktiva åtgärder, vilka som accepteras och vilka som bevakas.
+
+En enkel risklogg, som uppdateras minst årsvis, skapar spårbarhet och hjälper styrelsen att se mönster över tid.
+
+## Digital styrning och informationssäkerhet
+
+Distriktet hanterar personuppgifter för ett stort antal spelare, tränare, domare och föreningsföreträdare. Det innebär ett ansvar under dataskyddslagstiftningen (GDPR) och ett krav på ändamålsenlig informationssäkerhet.
+
+Distriktsstyrelsen bär det övergripande ansvaret. Distriktschefen ansvarar för att rutiner för personuppgiftshantering, informationssäkerhet och it-beredskap finns och följs.
+
+Viktiga principer:
+
+- Personuppgifter samlas bara in när det finns ett lagligt stöd och ett tydligt ändamål
+- Tillgång till känsliga uppgifter begränsas till de som behöver dem för sitt uppdrag
+- Vid ett dataintrång eller en personuppgiftsincident ska det finnas rutiner för hantering och eventuell anmälan till Integritetsskyddsmyndigheten

@@ -104,3 +104,23 @@ Det demokratiska arbetet kräver tid. Om allt kommer sent blir föreningarnas in
 {% hint style="info" %}
 En bra årscykel är inte bara intern planering. Den är en del av den demokratiska kvaliteten — och en förutsättning för att styrningen ska kunna granskas.
 {% endhint %}
+
+## Årshjulet — när sker vad
+
+Styrningscykeln följer ett årshjul som binder samman de strategiska, demokratiska och operativa processerna. Hjulet visar när de viktiga stegen sker, inte hur länge varje moment tar.
+
+| Period | Vad sker |
+|--------|----------|
+| **Höst (sep–okt)** | Verksamhetsplanering inleds; kommittéer tar fram förslag; budgetdialog |
+| **Nov–dec** | Distriktsstyrelsen beslutar verksamhetsplan och budget för kommande år |
+| **Januari** | Nytt verksamhetsår startar; uppdrag kommuniceras till kommittéer och kansli |
+| **Löpande** | Tertialuppföljning eller kvartalsvis ekonomi- och verksamhetsrapport till styrelsen |
+| **Vår (feb–mar)** | Styrelsens styrningsrapport sammanställs; årsredovisning förbereds |
+| **Apr–maj** | Valberedningens arbete intensifieras; motioner inkommer |
+| **Maj–juni** | Revision och lekmannarevision genomförs |
+| **Juni (eller sept)** | Årsmöte: granskning, beslut om inriktning, val |
+| **Sommar–höst** | Strategiöversyn (vart 3:e år); kommittéuppdrag omprövas vid behov |
+
+{% hint style="info" %}
+Det exakta datumet för årsmötet och tidsplanen för budget- och verksamhetsplanering fastställs av distriktsstyrelsen inför varje år.
+{% endhint %}

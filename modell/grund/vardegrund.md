@@ -77,3 +77,15 @@ Värdegrunden blir särskilt viktig när något skaver. Det kan handla om oschys
 Alla sådana frågor ska inte hanteras på samma sätt. Vissa hör hemma i disciplinära processer. Andra kräver föreningsstöd, utbildning, dialog, arbetsmiljöarbete, trygghetsarbete eller intern uppföljning.
 
 När vägen är oklar ska frågan prövas mot [normordningen](normordning.md), [de styrande principerna](styrande-principer.md) och berörda [dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/) som är gällande.
+
+## Hållbarhet som ansvar
+
+SmFF är en folkrörelseorganisation med ett långsiktigt uppdrag. Det innebär ett ansvar att bedriva verksamheten hållbart — inte bara ekonomiskt, utan också miljömässigt och socialt.
+
+Hållbarhet i SmFF:s sammanhang innebär att:
+
+- Verksamheten ska kunna bedrivas långsiktigt utan att bygga upp ohållbara beroenden
+- Fotbollen bidrar till inkludering, folkhälsa och positiva sociala effekter i Småland
+- Resursanvändning och miljöpåverkan beaktas i planering och genomförande
+
+Hållbarhetsperspektivet är inte ett separat program. Det är en del av hur SmFF tar sitt uppdrag som folkrörelseorganisation på allvar.
