@@ -71,7 +71,7 @@ Kommitténs beslutsmandat står i [Delegationsordning för distriktsstyrelsen, a
 * **Vilar på:** [Stadgar för Smålands Fotbollförbund, 4 kap. 3 §](../stadgar/stadgar-for-smalands-fotbollforbund.md)
 * **Hör ihop med:** [Delegationsordning för distriktsstyrelsen](../delegationsordningar/delegationsordning-for-distriktsstyrelsen.md), [Instruktion för kommittéordförande](../instruktioner/instruktion-for-kommitteordforande.md), [Instruktion för kommittéledamot](../instruktioner/instruktion-for-kommitteledamot.md), [Instruktion för kommittésekreterare](../instruktioner/instruktion-for-kommittesekreterare.md)
 * **Ersätter:** Arbets- och delegationsordning för tävlingskommittén (Word-dokument, delen om uppdrag, sammansättning och sammanträden)
-* **Förklaras i styrmodellen:** [Kommittéer](https://styrning.smaland.football/underliggande-organ/kommitteer), [Arbetsgrupper](https://styrning.smaland.football/underliggande-organ/arbetsgrupper), [Referensgrupper](https://styrning.smaland.football/underliggande-organ/referensgrupper), [Möteshantering](https://styrning.smaland.football/arbetssatt/moteshantering), [Dokumentation och protokoll](https://styrning.smaland.football/arbetssatt/dokumentation-och-protokoll)
+* **Förklaras i styrmodellen:** Kommittéer, Arbetsgrupper, Referensgrupper, Möteshantering, Dokumentation och protokoll
 
 ## 13. Beslutshistorik
 

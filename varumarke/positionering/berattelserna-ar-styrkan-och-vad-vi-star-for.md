@@ -75,5 +75,5 @@ Varje kommunikationsinsats ska söka berättelsen och människan bakom sakfråga
 {% endcolumns %}
 
 {% hint style="info" icon="book-bookmark" %}
-Detta är praktiska exempel, med den småländska "dialekten", av vår gemensamma [värdegrund](https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/grund/vardegrund) som finns att läsa i styrmodellen.
+Detta är praktiska exempel, med den småländska "dialekten", av vår gemensamma värdegrund som finns att läsa i styrmodellen.
 {% endhint %}

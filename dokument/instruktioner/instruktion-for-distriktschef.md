@@ -8,7 +8,7 @@ Du ansvarar för den löpande förvaltningen av distriktets angelägenheter enli
 
 ## 2. Din plats i organisationen
 
-Din närmaste chef är distriktsordföranden och distriktsstyrelsen. Du leder kansliets arbete. Rollen förklaras i [Distriktschef](https://styrning.smaland.football/ledning/distriktschef) och [Ansvar och roller](https://styrning.smaland.football/organisation/ansvar-och-roller).
+Din närmaste chef är distriktsordföranden och distriktsstyrelsen. Du leder kansliets arbete. Rollen förklaras i styrmodellen under Distriktschef och Ansvar och roller.
 
 ## 3. Ditt ansvar
 
@@ -48,7 +48,7 @@ Dina anställningsvillkor och din lön står i ditt anställningsavtal, inte hä
 * **Vilar på:** [Delegationsordning för distriktsstyrelsen](../delegationsordningar/delegationsordning-for-distriktsstyrelsen.md)
 * **Hör ihop med:** [Instruktion för kommittéordförande](instruktion-for-kommitteordforande.md)
 * **Ersätter:** Befattningsbeskrivning för distriktschef (Word-dokument)
-* **Förklaras i styrmodellen:** [Distriktschef](https://styrning.smaland.football/ledning/distriktschef), [Ansvar och roller](https://styrning.smaland.football/organisation/ansvar-och-roller), [Ansvarsmatris](https://styrning.smaland.football/organisation/ansvarsmatris)
+* **Förklaras i styrmodellen:** Distriktschef, Ansvar och roller, Ansvarsmatris
 
 ## 10. Beslutshistorik
 
