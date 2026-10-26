@@ -32,42 +32,42 @@ layout:
 
 # Värdegrund
 
-Värdegrunden beskriver vilket slags klimat Smålands Fotbollförbund ska bidra till. Den handlar om hur människor möts, hur beslut fattas, hur barn och unga skyddas och hur föreningar får stöd att bedriva verksamhet på ett tryggt, öppet och hållbart sätt.
+Värdegrunden beskriver vilket slags klimat distriktet ska bidra till. Den handlar om hur människor möts och barn och unga skyddas för att bedriva verksamhet på ett tryggt, öppet och hållbart sätt.
 
-För distriktet räcker det inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den är inte ett fristående ord på en vägg, utan ska också märkas i hur vi styr och leder.
+Det räcker inte att värdegrunden syns i kommunikation eller utbildningsmaterial. Den är inte fristående ord på en vägg, utan ska också märkas i hur vi styr och leder.
 
-## Idrottens gemensamma värdegrund sätter grunden
+### Idrottens gemensamma värdegrund
 
-Riksidrottsförbundet beskriver [idrottsrörelsens värdegrund](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#idrotten-vill-idrottsrorelsens-ideprogram) genom fyra grundläggande delar. Tillsammans säger de förenklat att idrotten ska ge människor möjlighet att delta, växa, påverka, känna tillhörighet och möta varandra på schyssta villkor.
-
-{% hint style="info" %}
-Idrottens värdegrund är en gemensam grund för svensk idrott. För distriktet är den både en fråga om verksamhet och om styrning: hur vi fattar beslut, hur vi behandlar människor och hur vi följer upp det ansvar vi har.
-{% endhint %}
+Riksidrottsförbundet beskriver [idrottsrörelsens värdegrund](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#idrotten-vill-idrottsrorelsens-ideprogram) genom fyra delar. Tillsammans beskriver de svensk idrotts grundlägande idé om att ge människor möjlighet att delta, växa, påverka, känna tillhörighet och möta varandra på schyssta villkor.
 
 {% include "../.gitbook/includes/idrottens-karnvarden.md" %}
 
-För Smålands Fotbollförbund betyder det att beslut inte bara ska vara formellt riktiga. De ska också bära idrottens idé om gemenskap, delaktighet, öppenhet och rent spel.
+### Fotbollens värdegrund förstärker idrottens
 
-## Fotbollens värdegrund gör det konkret på planen
-
-Fotbollen har sin egen tillämpning av idrottens värdegrund. Svenska Fotbollförbundet uttrycker den genom **Fotbollens spela, lek och lär**.
-
-Där betonas fem riktlinjer: **fotboll för alla**, **barns och ungdomars villkor**, **fokus på glädje, ansträngning och lärande**, **hållbart idrottande** och **Fair Play**.
+Fotbollen har sin egen tillämpning av idrottens värdegrund som uttrycks genom [Fotbollens spela, lek och lär](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument). Där betonas fem riktlinjer om fotboll för alla, barns och ungdomars villkor, fokus på glädje, ansträngning och lärande, hållbart idrottande och fair play.
 
 Det är fotbollens sätt att säga att spelet ska vara öppet nog för många, tryggt nog för barn och unga, utmanande nog för utveckling och schysst nog för att människor ska vilja vara kvar.
 
 {% include "../.gitbook/includes/fotbollens-vardegrund.md" %}
 
+## Hållbarhet som ansvar
+
+SmFF är en folkrörelseorganisation med ett långsiktigt uppdrag. Det innebär ett ansvar att bedriva verksamheten hållbart — inte bara ekonomiskt, utan också miljömässigt och socialt.
+
+Hållbarhet i SmFF:s sammanhang innebär att:
+
+* Verksamheten ska kunna bedrivas långsiktigt utan att bygga upp ohållbara beroenden
+* Fotbollen bidrar till inkludering, folkhälsa och positiva sociala effekter i Småland
+* Resursanvändning och miljöpåverkan beaktas i planering och genomförande
+
+Hållbarhetsperspektivet är inte ett separat program. Det är en del av hur SmFF tar sitt uppdrag som folkrörelseorganisation på allvar.
+
+{% hint style="info" icon="children" %}
 ## Barn och unga kräver särskild omsorg
 
-En stor del av fotbollen berör barn och unga. Då behöver värdegrunden prövas extra noggrant.
+En stor del av fotbollen berör barn och unga, därför är det extra viktigt att värdegrunden appliceras. De ska möta en fotboll där deras bästa beaktas, där de får möjlighet att komma till tals och där verksamheten är trygg, utvecklande och inkluderande. Det gäller inte bara i föreningarnas vardag, utan också i distriktets beslut, utbildningar, tävlingsformer och uppföljning.
 
-Barn och unga ska möta en fotboll där deras bästa beaktas, där de får möjlighet att komma till tals och där verksamheten är trygg, utvecklande och inkluderande. Det gäller inte bara i föreningarnas vardag, utan också i distriktets beslut, utbildningar, tävlingsformer och uppföljning.
-
-När frågor rör barn och unga ska värdegrund, [barnrättsperspektiv](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#unicef-barnkonventionen) och tillämpliga regler hållas ihop.
-
-{% hint style="info" %}
-Från och med 1 januari 2020 är Förenta Nationernas barnkonvention lag i Sverige och det står i Riksidrottsförbundets stadgar att all idrott för barn ska utgå från just barnkonventionen.
+När frågor rör barn och unga ska värdegrund, barnrättperspektiv och tillämpliga regler prövas och hållas ihop extra. Från och med 1 januari 2020 är UNICEF[^1]:s barnkonvention [lag i Sverige](#user-content-fn-2)[^2] och det står i Riksidrottsförbundets stadgar att all idrott för barn ska utgå från just [barnkonventionen](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#unicef-barnkonventionen).
 {% endhint %}
 
 ## När värdegrunden prövas
@@ -78,14 +78,6 @@ Alla sådana frågor ska inte hanteras på samma sätt. Vissa hör hemma i disci
 
 När vägen är oklar ska frågan prövas mot [normordningen](normordning.md), [de styrande principerna](styrande-principer.md) och berörda [dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/) som är gällande.
 
-## Hållbarhet som ansvar
+[^1]: Förenta nationernas organ för barns grundläggande rättigheter, hälsa utbildning och trygghet
 
-SmFF är en folkrörelseorganisation med ett långsiktigt uppdrag. Det innebär ett ansvar att bedriva verksamheten hållbart — inte bara ekonomiskt, utan också miljömässigt och socialt.
-
-Hållbarhet i SmFF:s sammanhang innebär att:
-
-- Verksamheten ska kunna bedrivas långsiktigt utan att bygga upp ohållbara beroenden
-- Fotbollen bidrar till inkludering, folkhälsa och positiva sociala effekter i Småland
-- Resursanvändning och miljöpåverkan beaktas i planering och genomförande
-
-Hållbarhetsperspektivet är inte ett separat program. Det är en del av hur SmFF tar sitt uppdrag som folkrörelseorganisation på allvar.
+[^2]: Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter

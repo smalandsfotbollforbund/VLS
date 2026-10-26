@@ -1,7 +1,7 @@
 ---
 description: >-
   Vilka regler, beslut och dokument som väger tyngst när något behöver tolkas
-  eller när styrningen pekar åt olika håll.
+  eller pekar åt olika håll.
 cover: ../.gitbook/assets/cover-normordning.svg
 coverY: 0
 layout:
@@ -32,9 +32,13 @@ layout:
 
 # Normordning
 
-I en folkrörelse behövs både engagemang och ordning. När beslut, dokument eller regler pekar åt olika håll behöver distriktet veta vad som väger tyngst.
+I en folkrörelse behövs både engagemang och ordning. När beslut, dokument eller regler pekar åt olika håll behöver distriktet veta vad som väger tyngst. Normordningen är den vägledningen. Den hjälper att tolka frågor rätt, hålla isär olika nivåer och undvika att praxis, vana eller god vilja går före det som faktiskt är beslutat.
 
-Normordningen är den ordningen. Den hjälper Smålands Fotbollförbund att tolka frågor rätt, hålla isär olika nivåer och undvika att praxis, vana eller god vilja går före det som faktiskt är beslutat.
+Folkrörelseprincipen i sig är inte en egen nivå i rangordningen, utan grundplattan som förklarar varför normordningen behövs. Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. Vissa dokument hjälper distriktet att tolka, utveckla och förbättra styrningen, utan att vara en egen normnivå.
+
+{% hint style="info" %}
+Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#rekommendation-for-god-demokratisk-styrning-av-idrottsforbund) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning. Mer om hur folkrörelseprincipen görs praktisk finns i [folkrörelseprincip och demokratisk styrning](folkrorelse.md).
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/diagram-normordning.svg" alt="Normordningens sju nivåer, där det som står högre går före"><figcaption></figcaption></figure>
 
@@ -44,7 +48,7 @@ Varje nivå i normordningen väger tyngre än nivån under. Ett dokument eller b
 
 {% stepper %}
 {% step %}
-**RF:s stadgar**\
+**Riksidrottsförbundets stadgar**\
 De yttersta ramarna för idrottsrörelsen. De gäller för förbund, distrikt och föreningar inom idrotten.
 {% endstep %}
 
@@ -79,21 +83,9 @@ Processbeskrivningar, rutiner, mallar, checklistor, bilagor och annat stödmater
 {% endstep %}
 {% endstepper %}
 
-### Vägledning är inte alltid norm
-
-Alla viktiga dokument är inte bindande på samma sätt som stadgar och beslut. Vissa dokument hjälper distriktet att tolka, utveckla och förbättra styrningen, utan att vara en egen normnivå.
-
-{% hint style="info" %}
-Riksidrottsförbundets [rekommendation för god demokratisk styrning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/externa-dokument/externa-dokument#rekommendation-for-god-demokratisk-styrning-av-idrottsforbund) är till exempel vägledande. Den ersätter inte stadgar eller beslut, men hjälper distriktet att vårda demokratin genom tydliga roller, ansvar, öppenhet, uppföljning och granskning. Mer om hur folkrörelseprincipen görs praktisk finns i [folkrörelseprincip och demokratisk styrning](folkrorelse.md).
-{% endhint %}
-
-### Folkrörelsen är grunden under ordningen
-
-[Folkrörelseprincipen](folkrorelse.md) är inte en egen nivå i rangordningen. Den är grunden som förklarar varför normordningen behövs.
-
 ## När något skaver
 
-Om två dokument verkar säga olika saker gäller det dokument eller beslut som ligger högre i normordningen. Om frågan gäller vilken dokumenttyp som ska användas, hur dokument ska förvaltas eller var ett dokument hör hemma, ska den prövas mot [dokumentarkitekturen](../styrande-dokument/arkitektur.md).
+Om två dokument verkar säga olika saker gäller det dokument eller beslut som ligger högre i normordningen. Om frågan gäller vilken dokumenttyp som ska användas, hur dokument ska förvaltas eller var ett dokument hör hemma ska den prövas mot [dokumentarkitekturen](../styrande-dokument/arkitektur.md).
 
 Om det fortfarande är oklart ska frågan lyftas till rätt ansvarig nivå. Den ska inte lösas genom tradition, personligt omdöme eller informella genvägar.
 

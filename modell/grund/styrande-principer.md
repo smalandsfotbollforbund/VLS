@@ -32,15 +32,15 @@ layout:
 
 # Styrande principer
 
-Styrande principer hjälper Smålands Fotbollförbund att använda styrmodellen klokt när en fråga inte är självklar.
-
-De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../styrande-dokument/arkitektur.md), [ansvarsmatrisen](../organisation/ansvarsmatris.md) eller beslutade dokument. De ska hjälpa läsaren att hitta rätt kärnkälla.
+Styrande principer hjälper distriktet att använda styrmodellen klokt när en fråga inte är självklar. De ska inte ersätta [normordningen](normordning.md), [dokumentarkitekturen](../styrande-dokument/arkitektur.md), [ansvarsmatrisen](../organisation/ansvarsmatris.md) eller beslutade [dokument](https://app.gitbook.com/o/TR51rgBV2VcNfsavrrCR/s/ENOAH9wAe9WidINWNBqc/). De ska hjälpa att hitta rätt kärnkälla.
 
 {% hint style="info" %}
 Om dokument eller beslut pekar åt olika håll gäller [normordningen](normordning.md). Om frågan gäller dokumenttyp eller dokumentarkiv används [dokumentarkitekturen](../styrande-dokument/arkitektur.md). Om frågan gäller ansvar i en viss frågetyp används [ansvarsmatrisen](../organisation/ansvarsmatris.md).
 {% endhint %}
 
-### Om struktur och mandat
+När flera principer är relevanta samtidigt ska organisationen inte välja den enklaste vägen av gammal vana. Frågan ska tillbaka till rätt nivå, rätt ansvar och rätt dokument. Det är där styrmodellen gör sitt jobb; att den hjälper distriktet att hålla ordning när verkligheten inte är helt rak.
+
+#### Struktur och mandat
 
 <details>
 
@@ -66,13 +66,13 @@ Skillnaden mellan nivåer, roller och uppdrag beskrivs i [styrarkitekturen](../o
 
 </details>
 
-### Om beslutskedjor och ansvar
+#### Beslutskedjor och ansvar
 
 <details>
 
 <summary><strong>Beredning är inte beslut</strong></summary>
 
-Beredning, beslut och verkställighet är olika delar av ansvarskedjan. Principerna beskrivs i [beredning, beslut och verkställighet](../arbetssatt/beredning-beslut-och-verkstallighet.md).
+[Beredning, beslut och verkställighet](../arbetssatt/beredning-beslut-och-verkstallighet.md) är olika delar av ansvarskedjan och bör hållas separerade från varandra.
 
 </details>
 
@@ -80,7 +80,7 @@ Beredning, beslut och verkställighet är olika delar av ansvarskedjan. Principe
 
 <summary><strong>Delegation ska vara tydlig och möjlig att följa</strong></summary>
 
-Principerna för delegation finns i [delegation](../ledning/delegation.md). Den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
+Principerna för delegation finns beskrivna under [delegation](../ledning/delegation.md) och den konkreta delegationsordningen hör hemma i [dokumentarkivet](https://styrning.smaland.football/dokument).
 
 </details>
 
@@ -88,7 +88,7 @@ Principerna för delegation finns i [delegation](../ledning/delegation.md). Den 
 
 <summary><strong>Ansvar ska gå att följa</strong></summary>
 
-Ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md). Konkret ansvarsfördelning i olika frågetyper beskrivs i [ansvarsmatrisen](../organisation/ansvarsmatris.md).
+Ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md), medan konkret ansvarsfördelning i olika frågetyper beskrivs i [ansvarsmatrisen](../organisation/ansvarsmatris.md).
 
 </details>
 
@@ -96,11 +96,11 @@ Ansvarstyperna definieras i [begreppslistan](../readme/begreppslista.md). Konkre
 
 <summary><strong>Gråzoner ska redas ut, inte vänjas in</strong></summary>
 
-Återkommande gråzoner ska inte lösas informellt. De ska prövas mot rätt sida i styrmodellen och därefter, vid behov, tydliggöras i uppdrag, arbetsordning, delegation, instruktion, process eller beslut på rätt nivå.
+Återkommande gråzoner ska inte lösas informellt. De ska prövas mot rätt sida i styrmodellen och därefter, vid behov, tydliggöras i uppdrag, [arbetsordning](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/arbetsordningar), [delegation](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/delegationsordningar), [instruktion](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/instruktioner), [process](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/processbeskrivningar) eller beslut på rätt nivå.
 
 </details>
 
-### Om öppenhet, dokumentation och kontroll
+#### Öppenhet, dokumentation och kontroll
 
 <details>
 
@@ -114,7 +114,7 @@ Principerna för dokumentation, protokoll och spårbarhet finns i [dokumentation
 
 <summary><strong>Öppenhet ska vara begriplig</strong></summary>
 
-Öppenhet hör ihop med föreningarnas möjlighet att förstå och följa styrningen. Den demokratiska sidan av detta beskrivs i [demokratisk legitimitet och medlemsinflytande](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md).
+Öppenhet hör ihop med föreningarnas möjlighet att förstå och följa styrningen, vilket skapar [demokratisk legitimitet och medlemsinflytande](../demokrati/demokratisk-legitimitet-och-medlemsinflytande.md).
 
 </details>
 
@@ -125,5 +125,3 @@ Principerna för dokumentation, protokoll och spårbarhet finns i [dokumentation
 Principerna för intern kontroll, risk och attest finns i [intern kontroll och attest](../ledning/intern-kontroll-och-attest.md).
 
 </details>
-
-När flera principer är relevanta samtidigt ska organisationen inte välja den enklaste vägen av gammal vana. Frågan ska tillbaka till rätt nivå, rätt ansvar och rätt dokument. Det är där styrmodellen gör sitt jobb: den hjälper distriktet att hålla ordning när verkligheten inte är helt rak.

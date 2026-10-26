@@ -1,4 +1,8 @@
 ---
+description: >-
+  Styrdokument är de formella beslut och riktlinjer som konkretiserar modellen
+  och anger hur ansvaret ska utövas i praktiken. Styrmodellen beskriver
+  principerna, medan dokumenten anger hur de tillämpas.
 cover: ../.gitbook/assets/cover-avsnitt-dokument.svg
 coverY: 0
 layout:
@@ -29,6 +33,3 @@ layout:
 
 # Styrande dokument
 
-Styrande dokument är de formella beslut och riktlinjer som konkretiserar styrmodellen och anger hur ansvaret ska utövas i praktiken. Styrmodellen beskriver principerna — dokumenten anger hur de tillämpas.
-
-[Dokumentarkitekturen](arkitektur.md) förklarar hur dokumenten är organiserade, vilka typer som finns och hur de förhåller sig till varandra och till styrmodellen. [Externa bärande dokument](externa.md) listar de nationella och idrottsgemensamma regelverk som distriktet alltid verkar inom. Det fullständiga dokumentarkivet finns i [styrdokumentens space](https://styrning.smaland.football).
