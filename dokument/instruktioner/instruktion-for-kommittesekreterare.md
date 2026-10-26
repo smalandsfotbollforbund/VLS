@@ -48,7 +48,7 @@ Underlag saknas.
 * **Vilar på:** [Delegationsordning för distriktsstyrelsen](../delegationsordningar/delegationsordning-for-distriktsstyrelsen.md), arbetsordningen för din kommitté (se avsnitt 2)
 * **Hör ihop med:** [Instruktion för kommittéordförande](instruktion-for-kommitteordforande.md), [Instruktion för kommittéledamot](instruktion-for-kommitteledamot.md)
 * **Ersätter:** Delen om sekreterare i arbets- och delegationsordningarna för kommittéerna (Word-dokument)
-* **Förklaras i styrmodellen:** [Kommittéer](https://styrning.smaland.football/underliggande-organ/kommitteer), [Dokumentation och protokoll](https://styrning.smaland.football/arbetssatt/dokumentation-och-protokoll)
+* **Förklaras i styrmodellen:** Kommittéer, Dokumentation och protokoll
 
 ## 10. Beslutshistorik
 

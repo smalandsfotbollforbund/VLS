@@ -33,11 +33,11 @@ Men distriktet definieras inte av sin organisationsform. Det definieras av vilka
 Varumärkets karaktär är smålänningens: en människa som kan hålla ett årsmöte, bygga en stenmur och slå en hörna. Saklig men varm. Färgstark men aldrig skrikig. Stolt men inte självgod. Vi är inte fotbollens centrum. Vi är dess ryggrad.
 
 {% hint style="info" icon="book-bookmark" %}
-<sup>1</sup> [Stadgar för Smålands Fotbollförbund, 1 KAP, 1 § Uppgift](https://app.gitbook.com/s/ENOAH9wAe9WidINWNBqc/stadgar/stadgar-for-smalands-fotbollforbund#id-1-uppgift)
+<sup>1</sup> Stadgar för Smålands Fotbollförbund, 1 KAP, 1 § Uppgift
 {% endhint %}
 
 ## Strategisk grund
 
-Vision, mission och verksamhetsidé. Positioneringen vilar på distriktets fastställda [strategi](https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi).
+Vision, mission och verksamhetsidé. Positioneringen vilar på distriktets fastställda strategi.
 
-{% include "https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/~/reusable/oRqiVr69dFC1Jnki5ALr/" %}
+{% include "../.gitbook/includes/vision.md" %}

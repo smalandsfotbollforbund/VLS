@@ -49,7 +49,7 @@ Underlag saknas.
 * **Vilar på:** [Delegationsordning för distriktsstyrelsen](../delegationsordningar/delegationsordning-for-distriktsstyrelsen.md), [Arbetsordning för domarkommittén](../arbetsordningar/arbetsordning-for-domarkommitten.md)
 * **Hör ihop med:** [Instruktion för kommittéordförande](instruktion-for-kommitteordforande.md)
 * **Ersätter:** Delen om coach, rekryterare och utbildare i arbets- och delegationsordningen för domarkommittén (Word-dokument)
-* **Förklaras i styrmodellen:** [Kommittéer](https://styrning.smaland.football/underliggande-organ/kommitteer)
+* **Förklaras i styrmodellen:** Kommittéer
 
 ## 10. Beslutshistorik
 

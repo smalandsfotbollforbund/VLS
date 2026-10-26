@@ -55,7 +55,7 @@ Du får en god introduktion och information om hur Smålands Fotbollförbund arb
 * **Vilar på:** [Delegationsordning för distriktsstyrelsen](../delegationsordningar/delegationsordning-for-distriktsstyrelsen.md), arbetsordningen för din kommitté (se avsnitt 2)
 * **Hör ihop med:** [Instruktion för kommittéordförande](instruktion-for-kommitteordforande.md), [Instruktion för kommittésekreterare](instruktion-for-kommittesekreterare.md)
 * **Ersätter:** Befattningsbeskrivning för kommittéledamot (Word-dokument)
-* **Förklaras i styrmodellen:** [Kommittéer](https://styrning.smaland.football/underliggande-organ/kommitteer), [Ansvar och roller](https://styrning.smaland.football/organisation/ansvar-och-roller)
+* **Förklaras i styrmodellen:** Kommittéer, Ansvar och roller
 
 ## 10. Beslutshistorik
 
